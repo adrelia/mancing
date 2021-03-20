@@ -1,286 +1,493 @@
-
 <!DOCTYPE html>
-<html >
-
+<html lang="en-US">
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="format-detection" content="telephone=no">
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="" />
-<meta name="keywords" content="" />
-<meta name="robots" content="noindex,nofollow">
-
-<link rel="canonical" href="https://mole.pagedemo.co">
-
-<title>Mobile Lgends</title>
-
-    <meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
-<meta property="og:site_name" content="">
-<meta property="og:url" content="https://mole.pagedemo.co">
-
-
-    <link rel="preload" as="script" href="//g.fastcdn.co/js/utils.4307b753f6f392018c32.js"></link>
-    <link rel="preload" as="script" href="//g.fastcdn.co/js/Cradle.5675cbeb1e8b20e4775c.js"></link>
-    <link rel="preload" as="script" href="//g.fastcdn.co/js/LazyImage.b311ea858a228d7bc9b2.js"></link>
-    <link rel="preconnect dns-prefetch" href="https://fonts.gstatic.com" crossorigin></link>
-
-
-
-
-
-    <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kalam:400,300,700"/>
-
-
-  <style type="text/css" media="screen">
-    body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;margin:0;width:100%;font-family:Arial;font-weight:400;background:rgb(255,255,255);}a{text-decoration:none;color:inherit;cursor:pointer;}a:not(.btn):hover{text-decoration:underline;}input,select,textarea,p,h1,h2,h3,h4,h5,h6{margin:0;font-size:inherit;font-weight:inherit;}main{overflow:hidden;}u > span{text-decoration:inherit;}ol,ul{padding-left:2.5rem;margin:.625rem 0;}p{word-wrap:break-word;}h1 > span,h2 > span,h3 > span,h4 > span,h5 > span,h6 > span{display:block;word-wrap:break-word;}iframe{border:0;}*{box-sizing:border-box;}:root.js-text-scaling{--mobile-font-size:4vw;--default-font-size:16px;}.item-absolute{position:absolute;}.item-relative{position:relative;}.item-block{display:block;height:100%;width:100%;}.item-cover{z-index:1000001;}.item-breakword{word-wrap:break-word;}.item-content-box{box-sizing:content-box;}.hidden{display:none;}.clearfix{clear:both;}sup{margin-left:0.1rem;line-height:0;}@keyframes slide-down{from{opacity:0;transform:translateY(-50px);}}@keyframes fade-in{from{opacity:0;}}@supports (-webkit-overflow-scrolling:touch){@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi){.image[src$=".svg"]{width:calc(100% + 1px);}}}.show-for-sr{border:0 !important;clip:rect(1px,1px,1px,1px) !important;-webkit-clip-path:inset(50%) !important;clip-path:inset(50%) !important;height:1px !important;margin:-1px !important;overflow:hidden !important;padding:0 !important;position:absolute !important;width:1px !important;white-space:nowrap !important;}.headline{font-family:Kalam;font-weight:400;}.section-fit{max-width:400px;}:root{--section-relative-margin:0 auto;}.section-relative{position:relative;margin:0 auto;}.js-text-scaling .section-relative{margin:var(--section-relative-margin);}.section-inner{height:100%;}#page-block-eex4ic3yqa4{height:37.0625rem;max-width:100%;}#page-block-eex4ic3yqa4 .section-holder-border{border:0;}#page-block-eex4ic3yqa4 .section-block{background:rgb(30,30,30);height:37.0625rem;}#page-block-eex4ic3yqa4 .section-holder-overlay{display:none;}#element-2{top:2.5rem;left:1.25rem;height:1.625rem;width:22.5rem;z-index:3;color:#37465A;font-size:1.6099rem;line-height:1.625rem;text-align:center;}#element-2 .x_f82204f0{text-align:center;line-height:1.625rem;font-size:1.6099rem;}#element-2 .x_f2074b6c{color:#ffffff;}#element-127{top:7.625rem;left:5.3125rem;height:13.8125rem;width:14.3125rem;z-index:12;}#element-8{top:23.3125rem;left:1.25rem;height:6.875rem;width:22.5rem;z-index:6;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:center;}#element-8 .x_2c80ab57{text-align:center;line-height:1.375rem;font-size:0.9907rem;}#element-8 .x_76ffb0ab{color:#e8e8e8;}#element-128{top:32.0625rem;left:5.75rem;height:2.5rem;width:13.5rem;z-index:13;}.btn{cursor:pointer;text-align:center;transition:border .5s;width:100%;border:0;white-space:normal;display:table-cell;vertical-align:middle;padding:0;line-height:120%;}.btn-shadow{box-shadow:0 1px 3px rgba(1,1,1,0.5);}#element-128 .btn.btn-effect3d:active{box-shadow:none;}#element-128 .btn:hover{background:#1565C0;color:#FFFFFF;}#element-128 .btn{background:#D49C00;color:#FFFFFF;font-size:0.9907rem;font-family:Arial;font-weight:400;height:2.5rem;width:13.5rem;border-radius:3px;}#page-block-gtsqerh7t74{height:85.1875rem;max-width:100%;}#page-block-gtsqerh7t74 .section-holder-border{border:0;}#page-block-gtsqerh7t74 .section-block{background:rgb(255,255,255);height:85.1875rem;}#page-block-gtsqerh7t74 .section-holder-overlay{display:none;}#element-78{top:2.5rem;left:4.375rem;height:32.1875rem;width:16.1875rem;z-index:7;}.circle{border-radius:50%;}.shape{height:inherit;}.line-horizontal{height:.625rem;}.line-vertical{height:100%;margin-right:.625rem;}[class*='line-']{box-sizing:content-box;}#element-78 .shape{border:0;border-radius:1.625rem 1.625rem 1.625rem 1.625rem;background:rgb(255,255,255);box-shadow:rgba(93,93,93,0.2) 0 10px 20px 0;}#element-79{top:4.375rem;left:4.9375rem;height:28.4375rem;width:15.125rem;z-index:8;}#element-79 .shape{border:0;border-radius:1.5rem 1.5rem 1.5rem 1.5rem;background:url(//v.fastcdn.co/u/4ad48322/55451066-0-Screenshot-20210202-.jpg) repeat rgb(255,255,255) 50% 50% / cover;opacity:1;}#element-95{top:57.6875rem;left:2.875rem;height:1.375rem;width:19.1875rem;z-index:10;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;}#element-95 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-115{top:36.6875rem;left:3.0625rem;height:18rem;width:18.8125rem;z-index:9;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;}#element-115 .x_9811881d{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-118{top:59.8125rem;left:2.3125rem;height:23rem;width:20.3125rem;z-index:11;color:#37465A;font-size:1.1146rem;line-height:1.8rem;text-align:left;}#element-118 .x_8c071feb{text-align:left;line-height:1.8125rem;font-size:1.1146rem;}#element-118 .x_b6c3675a{text-align:left;line-height:1.8125rem;font-size:1.1146rem;}#element-118 .x_22a0fbd4{text-align:left;color:#000001;}#element-118 .x_aab29cef{text-align:left;color:rgb(0,0,1);}#element-118 strong{font-weight:700;}#page-block-0v5h08wcwvb{height:11.3125rem;max-width:100%;}#page-block-0v5h08wcwvb .section-holder-border{border:0;}#page-block-0v5h08wcwvb .section-block{background:rgb(255,255,255);height:11.3125rem;}#page-block-0v5h08wcwvb .section-holder-overlay{display:none;}#element-67{top:2.5rem;left:1.25rem;height:1.625rem;width:22.5rem;z-index:4;color:#37465A;font-size:1.6099rem;line-height:1.625rem;text-align:center;}#element-67 .x_f82204f0{text-align:center;line-height:1.625rem;font-size:1.6099rem;}#element-129{top:6rem;left:5.75rem;height:2.5rem;width:13.5rem;z-index:14;}#element-129 .btn.btn-effect3d:active{box-shadow:none;}#element-129 .btn:hover{background:#1565C0;color:#FFFFFF;}#element-129 .btn{background:#D49C00;color:#FFFFFF;font-size:0.9907rem;font-family:Arial;font-weight:400;height:2.5rem;width:13.5rem;border-radius:3px;}#page-block-r8z30w9r04{height:6.1875rem;max-width:100%;}#page-block-r8z30w9r04 .section-holder-border{border:0;}#page-block-r8z30w9r04 .section-block{background:rgb(255,255,255);height:6.1875rem;}#page-block-r8z30w9r04 .section-holder-overlay{display:none;}#element-75{top:2.5rem;left:1.25rem;height:1.25rem;width:22.5rem;z-index:5;color:#37465A;font-size:0.8669rem;line-height:1.225rem;text-align:center;}#element-75 .x_c5f0bf77{text-align:center;line-height:1.25rem;font-size:0.8669rem;}@media screen and (max-width:400px){:root{font-size:4vw;}:root.js-text-scaling{font-size:var(--mobile-font-size);}}@media screen and (min-width:401px) and (max-width:767px){:root{font-size:16px;}:root.js-text-scaling{font-size:var(--default-font-size);}}@media screen and (min-width:768px) and (max-width:1200px){:root{font-size:1.33vw;}}@media screen and (max-width:767px){.hidden-mobile{display:none;}}@media screen and (min-width:768px){.section-fit{max-width:60rem;}#page-block-eex4ic3yqa4{height:28.1875rem;max-width:100%;}#page-block-eex4ic3yqa4 .section-holder-border{border:0;}#page-block-eex4ic3yqa4 .section-block{background:rgb(30,30,30);height:28.1875rem;}#page-block-eex4ic3yqa4 .section-holder-overlay{display:none;}#element-2{top:1.6875rem;left:0;height:2.875rem;width:59.9375rem;z-index:3;color:#37465A;font-size:2.3529rem;line-height:2.85rem;text-align:center;}#element-2 .x_b614627d{text-align:center;line-height:2.875rem;font-size:2.3529rem;}#element-2 .x_f2074b6c{color:#ffffff;}#element-127{top:5rem;left:22.8125rem;height:13.8125rem;width:14.3125rem;z-index:14;}#element-8{top:19.6875rem;left:0;height:3.25rem;width:59.9375rem;z-index:6;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:center;}#element-8 .x_dc68832a{text-align:center;line-height:1.625rem;font-size:0.9907rem;}#element-8 .x_76ffb0ab{color:#e8e8e8;}#element-128{top:24.125rem;left:23.25rem;height:2.5rem;width:13.5rem;z-index:15;}#element-128 .btn.btn-effect3d:active{box-shadow:none;}#element-128 .btn:hover{background:#1565C0;color:#FFFFFF;}#element-128 .btn{background:#D49C00;color:#FFFFFF;font-size:0.9907rem;font-family:Arial;font-weight:400;height:2.5rem;width:13.5rem;border-radius:3px;}#page-block-gtsqerh7t74{height:43.125rem;max-width:100%;}#page-block-gtsqerh7t74 .section-holder-border{border:0;}#page-block-gtsqerh7t74 .section-block{background:rgb(255,255,255);height:43.125rem;}#page-block-gtsqerh7t74 .section-holder-overlay{display:none;}#element-78{top:6.3125rem;left:21.875rem;height:30.4375rem;width:16.1875rem;z-index:9;}#element-78 .shape{border:0;border-radius:1.625rem 1.625rem 1.625rem 1.625rem;background:rgb(255,255,255);box-shadow:rgba(93,93,93,0.2) 0 10px 20px 0;}#element-79{top:6.6875rem;left:22.25rem;height:28.4375rem;width:15.125rem;z-index:10;}#element-79 .shape{border:0;border-radius:1.5rem 1.5rem 1.5rem 1.5rem;background:url(//v.fastcdn.co/u/4ad48322/55451066-0-Screenshot-20210202-.jpg) repeat rgb(255,255,255) 50% 50% / cover;opacity:1;}#element-95{top:8.75rem;left:40.75rem;height:1.375rem;width:19.1875rem;z-index:12;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;}#element-95 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-115{top:10.75rem;left:0;height:18rem;width:18.8125rem;z-index:11;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;}#element-115 .x_9811881d{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-118{top:10.8125rem;left:39.1875rem;height:23rem;width:20.3125rem;z-index:13;color:#37465A;font-size:1.1146rem;line-height:1.8rem;text-align:left;}#element-118 .x_8c071feb{text-align:left;line-height:1.8125rem;font-size:1.1146rem;}#element-118 .x_b6c3675a{text-align:left;line-height:1.8125rem;font-size:1.1146rem;}#element-118 .x_22a0fbd4{text-align:left;color:#000001;}#element-118 .x_aab29cef{text-align:left;color:rgb(0,0,1);}#element-118 strong{font-weight:700;}#page-block-0v5h08wcwvb{height:14.3125rem;max-width:100%;}#page-block-0v5h08wcwvb .section-holder-border{border:0;}#page-block-0v5h08wcwvb .section-block{background:rgb(255,255,255);height:14.3125rem;}#page-block-0v5h08wcwvb .section-holder-overlay{display:none;}#element-67{top:3.25rem;left:0;height:2.875rem;width:59.9375rem;z-index:4;color:#37465A;font-size:2.3529rem;line-height:2.85rem;text-align:center;}#element-67 .x_b614627d{text-align:center;line-height:2.875rem;font-size:2.3529rem;}#element-129{top:9.1875rem;left:23.25rem;height:2.5rem;width:13.5rem;z-index:16;}#element-129 .btn.btn-effect3d:active{box-shadow:none;}#element-129 .btn:hover{background:#1565C0;color:#FFFFFF;}#element-129 .btn{background:#D49C00;color:#FFFFFF;font-size:0.9907rem;font-family:Arial;font-weight:400;height:2.5rem;width:13.5rem;border-radius:3px;}#page-block-r8z30w9r04{height:5.125rem;max-width:100%;}#page-block-r8z30w9r04 .section-holder-border{border:0;}#page-block-r8z30w9r04 .section-block{background:rgb(255,255,255);height:5.125rem;}#page-block-r8z30w9r04 .section-holder-overlay{display:none;}#element-75{top:1.875rem;left:15.125rem;height:1.375rem;width:29.5625rem;z-index:5;color:#37465A;font-size:0.8669rem;line-height:1.4rem;text-align:center;}#element-75 .x_938e8cfc{text-align:center;line-height:1.375rem;font-size:0.8669rem;}} 
-  </style>
-
-    <script>
-  window.__variantsData = [ { name: 'A', chance: 100 } ];
-
-window.__page_id = 21476736;
-  window.__customer_id = 4238836;
-  window.__default_experience_id = 21476736;
-  window.__version = 8;
-  window.__variant = "A";
-  window.__variant_id = 1;
-  window.__variant_custom_name = "Variation A";
-  window.__preview = false;
-  window.__page_type = 2;
-  window.__variant_hash = "5c917ab9ca9902afa1432e40c6fe11907f3d4aea";
-  window.__page_domain = "mole.pagedemo.co";
-  window.__page_generator = true;
-  window._Translate = { 
-    translations: {},
-    set: function (text, translation) { this.translations[text] = translation; },
-    get: function (text) { return this.translations[text] || text; }
-  };
-</script>
-<script id="ip-config" type="application/json">
-  {"mobileDisabled":false,"downloadFileEndpoint":"https://app.instapage.com/ajax/pageserver/files/serve-file","thankYouTimeout":3000,"reCaptchaEnabled":false,"snowplowUrl":"https://cdn.instapagemetrics.com/t/js/it.js","snowplowWrapperUrl":"https://g.fastcdn.co/js/sptw.js"}
-</script>
-
-  <script id="ip-analytics" type="application/json">{"trackingData":{"anthillApiKey":"ef1226337acb8f1d50b2767a8727e50b279eeb88ffc8dc3fc7313258ab831843a20a7d28d02dab1cb0d0d704932920c4d16931e222d8eacda898822b8c93a43b7d8816a13393d4f27ca8d06a48e4824bd002ce6918c782f51bb719a655b540c0c035a7a685f693ce1ab290582114ad4e126d7622167c25d8aaf55d3eeffedb9037cada9367d739488f2d53b2cc977333","ownerId":3825951,"customerId":4238836,"pageId":21476736,"publishedVersion":8,"variationName":"A","variationId":1,"linkedVariationId":2,"variation":"A","trackedLinks":[{"href":"https://mole.generator2021.com/","ariaLabel":"","id":"oir31hgm75","type":"url","track":true,"targetNewWindow":false},{"href":"https://mole.generator2021.com/","ariaLabel":"","id":"rfpx2ie2s","type":"url","track":true,"targetNewWindow":false},{"href":"https://mole.generator2021.com/","ariaLabel":"","id":"dz3lo07luv9","type":"url","track":true,"targetNewWindow":false}],"allLinks":[{"href":"https://mole.generator2021.com/","ariaLabel":"","id":"oir31hgm75","type":"url","track":true,"targetNewWindow":false},{"href":"https://mole.generator2021.com/","ariaLabel":"","id":"rfpx2ie2s","type":"url","track":true,"targetNewWindow":false},{"href":"https://mole.generator2021.com/","ariaLabel":"","id":"dz3lo07luv9","type":"url","track":true,"targetNewWindow":false}],"user_id":3825951},"conversionSettings":{"forms":true,"links":true,"external":false},"visitUrl":"https://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/visit","conversionUrl":"https://anthill.instapage.com/projects/56c2f3d796773d0a7e96a536/events/conversion"}</script>
-
-  <script id="ip-trkr" type="text/javascript" async=1>
-    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
-    p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
-    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
-    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://cdn.instapagemetrics.com/t/js/it.js","instapageSp"));
-    ;(function(i,n,s,t,a,p,g){i[a]||(i[a]=function(){(i[a].q=i[a].q||[]).push(arguments)},
-    i[a].q=i[a].q||[],p=n.createElement(s),g=n.getElementsByTagName(s)[0],p.async=1,
-    p.src=t,g.parentNode.insertBefore(p,g))}(window,document,"script","https://g.fastcdn.co/js/sptw.js","_instapageSnowplow"));
-    try {
-      var trackingData = JSON.parse(document.querySelector('#ip-analytics').text).trackingData;
-      window._instapageSnowplow('setWrapperConfig', {
-        lpContext: {
-          lp_id: trackingData.pageId,
-          lp_variation_id: trackingData.variationId,
-          lp_version: trackingData.publishedVersion,
-          subaccount_id: trackingData.customerId
-        }
-      });
-      window._instapageSnowplow('enableActivityTracking');
-      window._instapageSnowplow('trackPageView');
-    } catch (e) {
-      console.warn('Snowplow tracker error', e);
-    }
-  </script>
-
-
-
-
-
-
-  <!-- F_INSTAPAGE[dynamic_text_replacement;page_generator] -->
-
-  <!-- custom HEAD code-->
-  
-  
-  <!-- end custom HEAD code-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0">
+<title>GooglePlay Generator Generator </title>
+<meta name="robots" content="index,follow"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Madu Maag Salam"/>
+<meta property="og:url" content="https://ok-shopping.online/ig/"/>
+<link rel="alternate" type="application/rss+xml" title="Madu Maag Salam &raquo; Feed" href="https://ok-shopping.online/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Madu Maag Salam &raquo; Comments Feed" href="https://ok-shopping.online/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ok-shopping.online/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://ok-shopping.online/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.13' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+.elementor-widget-heading .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-image .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-text-editor{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#6ec1e4;}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:#6ec1e4;border-color:#6ec1e4;}.elementor-widget-button .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-divider{--divider-border-color:#54595f;}.elementor-widget-divider .elementor-divider__text{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:#54595f;}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:#54595f;border-color:#54595f;}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:#54595f;}.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:#6ec1e4;}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:#6ec1e4;border-color:#6ec1e4;}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:#6ec1e4;}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:#6ec1e4;}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:#6ec1e4;color:#6ec1e4;border-color:#6ec1e4;}.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-star-rating .elementor-star-rating__title{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-image-carousel .elementor-image-carousel-caption{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:#7a7a7a;}.elementor-widget-icon-list .elementor-icon-list-icon i{color:#6ec1e4;}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:#6ec1e4;}.elementor-widget-icon-list .elementor-icon-list-text{color:#54595f;}.elementor-widget-icon-list .elementor-icon-list-item{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-counter .elementor-counter-number-wrapper{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-counter .elementor-counter-title{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar{background-color:#6ec1e4;}.elementor-widget-progress .elementor-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-testimonial .elementor-testimonial-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-testimonial .elementor-testimonial-name{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-testimonial .elementor-testimonial-job{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:#6ec1e4;}.elementor-widget-tabs .elementor-tab-title.elementor-active a{color:#61ce70;}.elementor-widget-tabs .elementor-tab-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-tabs .elementor-tab-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title{color:#6ec1e4;}.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active .elementor-accordion-title{color:#61ce70;}.elementor-widget-accordion .elementor-accordion .elementor-accordion-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-accordion .elementor-accordion .elementor-tab-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon{color:#6ec1e4;}.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon{color:#61ce70;}.elementor-widget-toggle .elementor-toggle .elementor-toggle-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-toggle .elementor-toggle .elementor-tab-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-alert .elementor-alert-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-alert .elementor-alert-description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-button_lp a.elementor-button, .elementor-widget-button_lp .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_whatsapp a.elementor-button, .elementor-widget-button_whatsapp .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-image_lp .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-button_video a.elementor-button, .elementor-widget-button_video .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-countdown_simple .elementor-countdown-simple{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-countdown_evergreen .elementor-countdown-simple{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-optin .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-optin .elementor-lp-form-wrapper input[type="text"], .elementor-widget-optin .elementor-lp-form-wrapper input[type="email"], .elementor-widget-optin .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-optin .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-optin .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-popup-block-white .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-popup-block-white .elementor-lp-form-wrapper input[type="text"], .elementor-popup-block-white .elementor-lp-form-wrapper input[type="email"], .elementor-popup-block-white .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-popup-block-white .elementor-lp-form-wrapper input[type="submit"], .elementor-popup-block-white .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-optin_2steps a.elementor-button, .elementor-widget-optin_2steps .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_slider_image .lp-slider-wrapper .lp-slide-image-caption{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-lp_slider_content .lp-slider-heading{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-lp_slider_content .lp-slider-description{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper input[type="text"], .elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper input[type="email"], .elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-lp_whatsapp_form .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_whatsapp_popup a.elementor-button, .elementor-widget-lp_whatsapp_popup .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_contact_form .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_contact_form .elementor-lp-form-wrapper input[type="text"], .elementor-widget-lp_contact_form .elementor-lp-form-wrapper input[type="email"], .elementor-widget-lp_contact_form .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_contact_form .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-lp_contact_form .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper input[type="text"], .elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper input[type="email"], .elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper textarea{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper input[type="submit"], .elementor-widget-lp_confirmation_form .elementor-lp-form-wrapper button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-lp_navigation_menu .lp-navmenu-items li a, .elementor-widget-lp_navigation_menu .lp-navmenu-items li a:visited{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-lp_posts_grid .lp-posts-grid-wrapper li h4 a{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-lp_posts_grid .lp-posts-grid-wrapper li p{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-button_sms .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_tel .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_line .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_wagroup .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_messenger .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_telegram .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-button_instagram .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-theme-site-logo .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-site-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-theme-page-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-theme-post-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-theme-post-excerpt .elementor-widget-container{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-post-content{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-post-featured-image .widget-image-caption{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-theme-archive-title .elementor-heading-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-archive-posts .elementor-post__meta-data{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-archive-posts .elementor-post__excerpt p{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-archive-posts .elementor-post__read-more{color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-archive-posts .elementor-pagination{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-archive-posts .elementor-posts-nothing-found{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-posts .elementor-post__meta-data{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-posts .elementor-post__excerpt p{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-posts .elementor-post__read-more{color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-posts .elementor-post__card .elementor-post__badge{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-posts .elementor-pagination{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-portfolio a .elementor-portfolio-item__overlay{background-color:#61ce70;}.elementor-widget-portfolio .elementor-portfolio-item__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-portfolio .elementor-portfolio__filter{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-portfolio .elementor-portfolio__filter.elementor-active{color:#6ec1e4;}.elementor-widget-gallery .elementor-gallery-item__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-gallery .elementor-gallery-item__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-gallery{--galleries-title-color-normal:#6ec1e4;--galleries-title-color-hover:#54595f;--galleries-pointer-bg-color-hover:#61ce70;--gallery-title-color-active:#54595f;--galleries-pointer-bg-color-active:#61ce70;}.elementor-widget-gallery .elementor-gallery-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label{color:#7a7a7a;}.elementor-widget-form .elementor-field-group > label{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .elementor-field-type-html{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .elementor-field-group .elementor-field{color:#7a7a7a;}.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-form .e-form__buttons__wrapper__button-next{background-color:#61ce70;}.elementor-widget-form .elementor-button[type="submit"]{background-color:#61ce70;}.elementor-widget-form .e-form__buttons__wrapper__button-previous{background-color:#61ce70;}.elementor-widget-form .elementor-message{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-form .e-form__indicators__indicator, .elementor-widget-form .e-form__indicators__indicator__label{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-form{--e-form-steps-indicator-inactive-primary-color:#7a7a7a;--e-form-steps-indicator-active-primary-color:#61ce70;--e-form-steps-indicator-completed-primary-color:#61ce70;--e-form-steps-indicator-progress-color:#61ce70;--e-form-steps-indicator-progress-background-color:#7a7a7a;--e-form-steps-indicator-progress-meter-color:#7a7a7a;}.elementor-widget-form .e-form__indicators__indicator__progress__meter{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-login .elementor-field-group > a{color:#7a7a7a;}.elementor-widget-login .elementor-field-group > a:hover{color:#61ce70;}.elementor-widget-login .elementor-form-fields-wrapper label{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-login .elementor-field-group .elementor-field{color:#7a7a7a;}.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-login .elementor-button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-slides .elementor-slide-heading{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-slides .elementor-slide-description{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-slides .elementor-slide-button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:#7a7a7a;}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:#61ce70;}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#61ce70;}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:#61ce70;}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-animated-headline .elementor-headline-dynamic-wrapper path{stroke:#61ce70;}.elementor-widget-animated-headline .elementor-headline-plain-text{color:#54595f;}.elementor-widget-animated-headline .elementor-headline{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-animated-headline .elementor-headline-dynamic-text{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-list .elementor-price-list-header{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-list .elementor-price-list-description{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-price-list .elementor-price-list-separator{border-bottom-color:#54595f;}.elementor-widget-price-table .elementor-price-table__header{background-color:#54595f;}.elementor-widget-price-table .elementor-price-table__heading{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-table .elementor-price-table__subheading{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__price{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-table .elementor-price-table__original-price{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-price-table .elementor-price-table__period{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__features-list{color:#7a7a7a;}.elementor-widget-price-table .elementor-price-table__features-list li{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__features-list li:before{border-top-color:#7a7a7a;}.elementor-widget-price-table .elementor-price-table__button{font-family:"Roboto", Sans-serif;font-weight:500;background-color:#61ce70;}.elementor-widget-price-table .elementor-price-table__additional_info{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-price-table .elementor-price-table__ribbon-inner{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-flip-box .elementor-flip-box__button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-call-to-action .elementor-cta__title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-call-to-action .elementor-cta__description{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-call-to-action .elementor-cta__button{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-call-to-action .elementor-ribbon-inner{background-color:#61ce70;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-media-carousel .elementor-carousel-image-overlay{font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-testimonial-carousel .elementor-testimonial__text{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-testimonial-carousel .elementor-testimonial__name{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-testimonial-carousel .elementor-testimonial__title{color:#6ec1e4;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-reviews .elementor-testimonial__text{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-table-of-contents{--header-color:#54595f;--item-text-color:#7a7a7a;--item-text-hover-color:#61ce70;--marker-color:#7a7a7a;}.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-table-of-contents .elementor-toc__list-item{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-countdown .elementor-countdown-item{background-color:#6ec1e4;}.elementor-widget-countdown .elementor-countdown-digits{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-countdown .elementor-countdown-label{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-countdown .elementor-countdown-expire--message{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-search-form .elementor-search-form__input,
+					.elementor-widget-search-form .elementor-search-form__icon,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover,
+					.elementor-widget-search-form.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{color:#7a7a7a;}.elementor-widget-search-form .elementor-search-form__submit{font-family:"Roboto", Sans-serif;font-weight:400;background-color:#54595f;}.elementor-widget-author-box .elementor-author-box__name{color:#54595f;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-author-box .elementor-author-box__bio{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-author-box .elementor-author-box__button{color:#54595f;border-color:#54595f;font-family:"Roboto", Sans-serif;font-weight:500;}.elementor-widget-author-box .elementor-author-box__button:hover{border-color:#54595f;color:#54595f;}.elementor-widget-post-navigation span.post-navigation__prev--label{color:#7a7a7a;}.elementor-widget-post-navigation span.post-navigation__next--label{color:#7a7a7a;}.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label{font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title{color:#54595f;font-family:"Roboto Slab", Sans-serif;font-weight:400;}.elementor-widget-post-info .elementor-icon-list-item:not(:last-child):after{border-color:#7a7a7a;}.elementor-widget-post-info .elementor-icon-list-icon i{color:#6ec1e4;}.elementor-widget-post-info .elementor-icon-list-icon svg{fill:#6ec1e4;}.elementor-widget-post-info .elementor-icon-list-text, .elementor-widget-post-info .elementor-icon-list-text a{color:#54595f;}.elementor-widget-post-info .elementor-icon-list-item{font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-sitemap .elementor-sitemap-title{color:#6ec1e4;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a{color:#7a7a7a;font-family:"Roboto", Sans-serif;font-weight:400;}.elementor-widget-sitemap .elementor-sitemap-item{color:#7a7a7a;}.elementor-widget-blockquote .elementor-blockquote__content{color:#7a7a7a;}.elementor-widget-blockquote .elementor-blockquote__author{color:#54595f;}.elementor-widget-lottie{--caption-color:#7a7a7a;}.elementor-widget-lottie .e-lottie__caption{font-family:"Roboto", Sans-serif;font-weight:400;}
+.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-container{max-width:500px;min-height:400px;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-290 .elementor-element.elementor-element-6753c5d6:not(.elementor-motion-effects-element-type-background), .elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #54595F 0%, #383B3E 100%);}.elementor-290 .elementor-element.elementor-element-6753c5d6{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:64px 0px 64px 0px;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-shape-top svg{transform:translateX(-50%) rotateY(180deg);}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-shape-bottom svg{height:37px;}.elementor-290 .elementor-element.elementor-element-4348dab0 .elementor-image img{opacity:1;filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );border-style:solid;border-color:#FFFFFF;box-shadow:0px 0px 18px 5px rgba(255, 0, 249, 0.5);}.elementor-290 .elementor-element.elementor-element-4348dab0 > .elementor-widget-container{box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);}.elementor-290 .elementor-element.elementor-element-36119c1c{text-align:center;}.elementor-290 .elementor-element.elementor-element-36119c1c .elementor-heading-title{color:#F7FF00;font-family:"Lobster Two", Sans-serif;text-shadow:0px 0px 17px #A700FF;}.elementor-290 .elementor-element.elementor-element-165e7635 .elementor-text-editor{text-align:center;}.elementor-290 .elementor-element.elementor-element-165e7635{color:rgba(255,255,255,0.89);font-size:16px;line-height:1.5em;}.elementor-290 .elementor-element.elementor-element-165e7635 > .elementor-widget-container{margin:0% 0% 8% 0%;}.elementor-290 .elementor-element.elementor-element-2ff1a549 .elementor-button .elementor-align-icon-right{margin-left:20px;}.elementor-290 .elementor-element.elementor-element-2ff1a549 .elementor-button .elementor-align-icon-left{margin-right:20px;}.elementor-290 .elementor-element.elementor-element-2ff1a549 a.elementor-button, .elementor-290 .elementor-element.elementor-element-2ff1a549 .elementor-button{text-shadow:0px 0px 23px rgba(0,0,0,0.3);background-color:#23A455;}.elementor-290 .elementor-element.elementor-element-2ff1a549 .elementor-button{border-style:dashed;border-color:#FFFFFF;box-shadow:0px 0px 28px 0px rgba(0,0,0,0.5);}.elementor-290 .elementor-element.elementor-element-2da3c23{color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-container{max-width:500px;min-height:400px;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-290 .elementor-element.elementor-element-7543339f:not(.elementor-motion-effects-element-type-background), .elementor-290 .elementor-element.elementor-element-7543339f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #54595F 0%, #383B3E 100%);}.elementor-290 .elementor-element.elementor-element-7543339f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:64px 0px 64px 0px;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-shape-top svg{transform:translateX(-50%) rotateY(180deg);}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-shape-bottom svg{height:37px;}.elementor-290 .elementor-element.elementor-element-21c543e9{text-align:center;}.elementor-290 .elementor-element.elementor-element-21c543e9 .elementor-image img{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );border-style:solid;border-color:#FFFFFF;box-shadow:0px 0px 24px 5px rgba(0,0,0,0.5);}.elementor-290 .elementor-element.elementor-element-b6569db{color:#FFFFFF;text-transform:none;}.elementor-290 .elementor-element.elementor-element-66289f01 .elementor-counter-number-wrapper{color:#D9FF00;}.elementor-290 .elementor-element.elementor-element-66289f01 .elementor-counter-title{color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-69d30f82 .elementor-button .elementor-align-icon-right{margin-left:20px;}.elementor-290 .elementor-element.elementor-element-69d30f82 .elementor-button .elementor-align-icon-left{margin-right:20px;}.elementor-290 .elementor-element.elementor-element-69d30f82 a.elementor-button, .elementor-290 .elementor-element.elementor-element-69d30f82 .elementor-button{text-shadow:0px 0px 23px rgba(0,0,0,0.3);background-color:#23A455;}.elementor-290 .elementor-element.elementor-element-69d30f82 .elementor-button{border-style:dashed;border-color:#FFFFFF;box-shadow:0px 0px 28px 0px rgba(0,0,0,0.5);}.elementor-290 .elementor-element.elementor-element-1087939 .elementor-heading-title{color:#FFF900;font-family:"Arial", Sans-serif;}.elementor-290 .elementor-element.elementor-element-4c8fd6d{color:#FFFFFF;text-transform:none;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-container{max-width:500px;min-height:400px;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-290 .elementor-element.elementor-element-500c58ee:not(.elementor-motion-effects-element-type-background), .elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #54595F 0%, #383B3E 100%);}.elementor-290 .elementor-element.elementor-element-500c58ee{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:64px 0px 64px 0px;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-shape-top svg{transform:translateX(-50%) rotateY(180deg);}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-shape-bottom svg{height:37px;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-container{max-width:500px;min-height:400px;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-290 .elementor-element.elementor-element-671d36ef:not(.elementor-motion-effects-element-type-background), .elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #54595F 0%, #383B3E 100%);}.elementor-290 .elementor-element.elementor-element-671d36ef{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:64px 0px 64px 0px;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-shape-top svg{transform:translateX(-50%) rotateY(180deg);}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-shape-bottom svg{height:37px;}.elementor-290 .elementor-element.elementor-element-3ba4868f{text-align:center;}.elementor-290 .elementor-element.elementor-element-3ba4868f .elementor-heading-title{color:#FFFD00;font-family:"Lobster Two", Sans-serif;}.elementor-290 .elementor-element.elementor-element-20d7a787 .swiper-pagination-bullet{width:0px;height:0px;background:#000000;}.elementor-290 .elementor-element.elementor-element-20d7a787 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image{border-style:solid;border-color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-5644e4d1{text-align:center;}.elementor-290 .elementor-element.elementor-element-5644e4d1 .elementor-heading-title{color:#EDFF00;}.elementor-290 .elementor-element.elementor-element-1284fd86 .elementor-button .elementor-align-icon-right{margin-left:15px;}.elementor-290 .elementor-element.elementor-element-1284fd86 .elementor-button .elementor-align-icon-left{margin-right:15px;}.elementor-290 .elementor-element.elementor-element-1284fd86 a.elementor-button, .elementor-290 .elementor-element.elementor-element-1284fd86 .elementor-button{text-shadow:0px 0px 23px rgba(0,0,0,0.3);background-color:#23A455;}.elementor-290 .elementor-element.elementor-element-1284fd86 .elementor-button{border-style:dashed;border-color:#FFFFFF;box-shadow:0px 0px 27px 6px rgba(227, 255, 0, 0.5);}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-container{max-width:500px;min-height:400px;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-290 .elementor-element.elementor-element-1e57df18:not(.elementor-motion-effects-element-type-background), .elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #54595F 0%, #383B3E 100%);}.elementor-290 .elementor-element.elementor-element-1e57df18{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:64px 0px 64px 0px;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-shape-top svg{transform:translateX(-50%) rotateY(180deg);}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-shape-bottom svg{height:37px;}.elementor-290 .elementor-element.elementor-element-bd71baf{color:#F40000;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-container{max-width:500px;min-height:400px;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-290 .elementor-element.elementor-element-1e2f80ec:not(.elementor-motion-effects-element-type-background), .elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #54595F 0%, #383B3E 100%);}.elementor-290 .elementor-element.elementor-element-1e2f80ec{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:64px 0px 64px 0px;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-shape-top svg{transform:translateX(-50%) rotateY(180deg);}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-shape-bottom svg{height:37px;}.elementor-290 .elementor-element.elementor-element-52ee37f2 .elementor-counter-number-wrapper{color:#D9FF00;}.elementor-290 .elementor-element.elementor-element-52ee37f2 .elementor-counter-title{color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-11ca199d{text-align:center;}.elementor-290 .elementor-element.elementor-element-11ca199d .elementor-image img{width:43%;opacity:1;filter:brightness( 89% ) contrast( 100% ) saturate( 118% ) blur( 1.1px ) hue-rotate( 0deg );}.elementor-290 .elementor-element.elementor-element-7ed93028 .elementor-button .elementor-align-icon-right{margin-left:15px;}.elementor-290 .elementor-element.elementor-element-7ed93028 .elementor-button .elementor-align-icon-left{margin-right:15px;}.elementor-290 .elementor-element.elementor-element-7ed93028 a.elementor-button, .elementor-290 .elementor-element.elementor-element-7ed93028 .elementor-button{text-shadow:0px 0px 23px rgba(0,0,0,0.3);background-color:#23A455;}.elementor-290 .elementor-element.elementor-element-7ed93028 .elementor-button{border-style:dashed;border-color:#FFFFFF;box-shadow:0px 0px 34px 0px rgba(255, 223, 0, 0.76);}.elementor-290 .elementor-element.elementor-element-1093081b .elementor-button .elementor-align-icon-right{margin-left:5px;}.elementor-290 .elementor-element.elementor-element-1093081b .elementor-button .elementor-align-icon-left{margin-right:5px;}.elementor-290 .elementor-element.elementor-element-1093081b .elementor-button{color:#FFFFFF;background-color:#FF9200;border-style:dashed;}.elementor-290 .elementor-element.elementor-element-1093081b .elementor-button:hover{color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-20050bf9 .elementor-headline{text-align:center;}.elementor-290 .elementor-element.elementor-element-20050bf9 .elementor-headline-dynamic-wrapper path{stroke:#FFAA00;stroke-width:7px;}.elementor-290 .elementor-element.elementor-element-20050bf9 .elementor-headline-plain-text{color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-20050bf9 .elementor-headline-dynamic-text{color:#FFB700;}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-wrapper{max-width:100%;}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item{background-color:#23A455;border-style:solid;border-color:#FFFFFF;border-radius:3px 3px 3px 3px;}body:not(.rtl) .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:first-of-type){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:last-of-type){margin-right:calc( 10px/2 );}body.rtl .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:first-of-type){margin-right:calc( 10px/2 );}body.rtl .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:last-of-type){margin-left:calc( 10px/2 );}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-digits{color:#FFFFFF;}.elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button .elementor-align-icon-right{margin-left:15px;}.elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button .elementor-align-icon-left{margin-right:15px;}.elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button-sticky-yes{background-color:#23A455;padding:1px 1px 1px 1px;}.elementor-290 .elementor-element.elementor-element-2b795e4 a.elementor-button, .elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button{text-shadow:0px 0px 23px rgba(0,0,0,0.3);background-color:#23A455;}.elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button{border-style:dashed;border-color:#FFFFFF;box-shadow:0px 0px 28px 0px rgba(0,0,0,0.5);}@media(max-width:1024px){.elementor-290 .elementor-element.elementor-element-165e7635{font-size:16px;}}@media(max-width:767px){.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-container{min-height:0px;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-shape-top svg{width:calc(100% + 1.3px);height:30px;}.elementor-290 .elementor-element.elementor-element-6753c5d6 > .elementor-shape-bottom svg{height:50px;}.elementor-290 .elementor-element.elementor-element-6753c5d6{margin-top:0px;margin-bottom:-2px;}.elementor-290 .elementor-element.elementor-element-1c9f4a8d > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-4348dab0{text-align:center;}.elementor-290 .elementor-element.elementor-element-4348dab0 .elementor-image img{width:100%;max-width:100%;}.elementor-290 .elementor-element.elementor-element-4348dab0 > .elementor-widget-container{margin:-60px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-36119c1c{text-align:center;}.elementor-290 .elementor-element.elementor-element-36119c1c .elementor-heading-title{font-size:26px;line-height:0em;}.elementor-290 .elementor-element.elementor-element-165e7635 .elementor-text-editor{text-align:center;}.elementor-290 .elementor-element.elementor-element-165e7635{font-size:18px;}.elementor-290 .elementor-element.elementor-element-165e7635 > .elementor-widget-container{margin:-21px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-2ff1a549 a.elementor-button, .elementor-290 .elementor-element.elementor-element-2ff1a549 .elementor-button{font-size:16px;}.elementor-290 .elementor-element.elementor-element-2ff1a549 .elementor-button{border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-2ff1a549 > .elementor-widget-container{margin:-20px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-2da3c23 .elementor-text-editor{text-align:center;column-gap:0px;}.elementor-290 .elementor-element.elementor-element-2da3c23{font-size:16px;line-height:1.6em;letter-spacing:1.1px;}.elementor-290 .elementor-element.elementor-element-2da3c23 > .elementor-widget-container{margin:-10px 0px -30px 0px;padding:8px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-container{min-height:0px;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-shape-top svg{width:calc(100% + 1.3px);height:30px;}.elementor-290 .elementor-element.elementor-element-7543339f > .elementor-shape-bottom svg{height:50px;}.elementor-290 .elementor-element.elementor-element-7543339f{margin-top:0px;margin-bottom:0px;}.elementor-290 .elementor-element.elementor-element-21c543e9{text-align:center;}.elementor-290 .elementor-element.elementor-element-21c543e9 .elementor-image img{border-width:1px 1px 1px 1px;}.elementor-290 .elementor-element.elementor-element-21c543e9 > .elementor-widget-container{margin:-73px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-b6569db .elementor-text-editor{text-align:center;column-gap:0px;}.elementor-290 .elementor-element.elementor-element-b6569db{font-size:18px;}.elementor-290 .elementor-element.elementor-element-66289f01 .elementor-counter-number-wrapper{font-size:49px;}.elementor-290 .elementor-element.elementor-element-66289f01 .elementor-counter-title{font-size:18px;line-height:1.5em;}.elementor-290 .elementor-element.elementor-element-66289f01 > .elementor-widget-container{margin:-25px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-69d30f82 a.elementor-button, .elementor-290 .elementor-element.elementor-element-69d30f82 .elementor-button{font-size:16px;}.elementor-290 .elementor-element.elementor-element-69d30f82 .elementor-button{border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-69d30f82 > .elementor-widget-container{margin:5px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-1087939{text-align:center;}.elementor-290 .elementor-element.elementor-element-1087939 .elementor-heading-title{line-height:1.3em;letter-spacing:-1.5px;}.elementor-290 .elementor-element.elementor-element-4c8fd6d .elementor-text-editor{text-align:center;column-gap:0px;}.elementor-290 .elementor-element.elementor-element-4c8fd6d{font-size:18px;}.elementor-290 .elementor-element.elementor-element-4c8fd6d > .elementor-widget-container{margin:0px 0px -25px 0px;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-container{min-height:0px;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-shape-top svg{width:calc(100% + 1.3px);height:30px;}.elementor-290 .elementor-element.elementor-element-500c58ee > .elementor-shape-bottom svg{height:50px;}.elementor-290 .elementor-element.elementor-element-500c58ee{margin-top:0px;margin-bottom:0px;}.elementor-290 .elementor-element.elementor-element-46c52b1 > .elementor-widget-container{margin:-70px 0px 65px 0px;}.elementor-290 .elementor-element.elementor-element-0d704df{text-align:center;}.elementor-290 .elementor-element.elementor-element-0d704df > .elementor-widget-container{margin:-75px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-container{min-height:0px;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-shape-top svg{width:calc(100% + 1.3px);height:30px;}.elementor-290 .elementor-element.elementor-element-671d36ef > .elementor-shape-bottom svg{height:50px;}.elementor-290 .elementor-element.elementor-element-671d36ef{margin-top:0px;margin-bottom:0px;}.elementor-290 .elementor-element.elementor-element-3ba4868f{text-align:center;}.elementor-290 .elementor-element.elementor-element-3ba4868f > .elementor-widget-container{margin:-35px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-20d7a787 .swiper-wrapper{display:flex;align-items:center;}.elementor-290 .elementor-element.elementor-element-20d7a787 .elementor-image-carousel-wrapper .elementor-image-carousel .swiper-slide-image{border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-5644e4d1{text-align:center;}.elementor-290 .elementor-element.elementor-element-5644e4d1 .elementor-heading-title{font-size:15px;line-height:1.2em;letter-spacing:0px;}.elementor-290 .elementor-element.elementor-element-5644e4d1 > .elementor-widget-container{margin:-5px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-1284fd86 a.elementor-button, .elementor-290 .elementor-element.elementor-element-1284fd86 .elementor-button{font-size:16px;}.elementor-290 .elementor-element.elementor-element-1284fd86 .elementor-button{border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-1284fd86 > .elementor-widget-container{margin:2px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-container{min-height:0px;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-shape-top svg{width:calc(100% + 1.3px);height:30px;}.elementor-290 .elementor-element.elementor-element-1e57df18 > .elementor-shape-bottom svg{height:50px;}.elementor-290 .elementor-element.elementor-element-1e57df18{margin-top:0px;margin-bottom:0px;}.elementor-290 .elementor-element.elementor-element-bd71baf > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-5c41b40d{font-size:18px;}.elementor-290 .elementor-element.elementor-element-5c41b40d > .elementor-widget-container{margin:-20px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-container{min-height:0px;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-container:after{content:"";min-height:inherit;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-shape-top svg{width:calc(100% + 1.3px);height:30px;}.elementor-290 .elementor-element.elementor-element-1e2f80ec > .elementor-shape-bottom svg{height:50px;}.elementor-290 .elementor-element.elementor-element-1e2f80ec{margin-top:0px;margin-bottom:0px;}.elementor-290 .elementor-element.elementor-element-52ee37f2 .elementor-counter-number-wrapper{font-size:49px;}.elementor-290 .elementor-element.elementor-element-52ee37f2 .elementor-counter-title{font-size:18px;line-height:1.5em;}.elementor-290 .elementor-element.elementor-element-52ee37f2 > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-11ca199d{text-align:center;}.elementor-290 .elementor-element.elementor-element-11ca199d .elementor-image img{width:30%;max-width:100%;}.elementor-290 .elementor-element.elementor-element-11ca199d > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-7ed93028 a.elementor-button, .elementor-290 .elementor-element.elementor-element-7ed93028 .elementor-button{font-size:16px;}.elementor-290 .elementor-element.elementor-element-7ed93028 .elementor-button{border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-7ed93028 > .elementor-widget-container{margin:-16px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-1093081b .elementor-button{font-size:16px;border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-20050bf9 .elementor-headline{text-align:center;font-size:16px;}.elementor-290 .elementor-element.elementor-element-20050bf9 > .elementor-widget-container{margin:11px 11px 11px 11px;}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-wrapper{max-width:100%;}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item{border-width:2px 2px 2px 2px;}body:not(.rtl) .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:first-of-type){margin-left:calc( 2px/2 );}body:not(.rtl) .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:last-of-type){margin-right:calc( 2px/2 );}body.rtl .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:first-of-type){margin-right:calc( 2px/2 );}body.rtl .elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-item:not(:last-of-type){margin-left:calc( 2px/2 );}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-digits{font-size:35px;}.elementor-290 .elementor-element.elementor-element-414796dd .elementor-countdown-label{font-size:17px;}.elementor-290 .elementor-element.elementor-element-414796dd > .elementor-widget-container{margin:-5px 0px 0px 0px;}.elementor-290 .elementor-element.elementor-element-2b795e4 a.elementor-button, .elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button{font-size:16px;}.elementor-290 .elementor-element.elementor-element-2b795e4 .elementor-button{border-width:2px 2px 2px 2px;}.elementor-290 .elementor-element.elementor-element-556befd1{width:100%;}.elementor-290 .elementor-element.elementor-element-556befd1 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:20px;}.elementor-290 .elementor-element.elementor-element-5f551cf7{text-align:center;}.elementor-290 .elementor-element.elementor-element-5f551cf7 .elementor-image img{width:100%;max-width:100%;}.elementor-290 .elementor-element.elementor-element-5f551cf7 > .elementor-widget-container{margin:-100px 0px -45px 0px;}}
+</style>
+<link rel='stylesheet' id='elementor-pro-css'  href='https://ok-shopping.online/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='landingpress-css'  href='https://ok-shopping.online/wp-content/themes/landingpress-wp/style.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLobster+Two%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel="canonical" href="https://ok-shopping.online/ig/" />
+<link rel='shortlink' href='https://ok-shopping.online/?p=290' />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<style type="text/css">
+svg { width: 1em; height: 1em; fill: currentColor; display: inline-block; vertical-align: middle; margin-top: -2px; } 
+</style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PPQCQB7');</script>
+<!-- End Google Tag Manager -->
+<link rel="me" href="https://www.blogger.com/profile/15375641481327566857" />
+<link rel="me" href="https://www.blogger.com/profile/00512568289562621616" />
 </head>
-<body id="landing-page">
-<!-- custom BODY code-->
-
-
-<!-- end custom BODY code-->
-
-
-
-
-<main>
-    <section class="section section-relative " id="page-block-eex4ic3yqa4" data-at="section">
-   
-  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
-  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
-  <div class="section-block">
-    <div class="section-inner section-fit section-relative">
-        <div class="widget item-absolute headline  " id="element-2" data-at="headline">
-  <div class="contents">
-    <h1>
-      <p  class="x_b614627d x_f82204f0">    </p><p  class="x_b614627d x_f82204f0"><span  class="x_f2074b6c">Mobile Legends Generator 2021</span></p><p  class="x_b614627d x_f82204f0">   </p>
-    </h1>
-  </div>
+<body class="page-template page-template-page_landingpress page-template-page_landingpress-php page page-id-290 page-landingpress page-landingpress-full header-inactive footer-inactive elementor-default elementor-kit-11 elementor-page elementor-page-290">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe 
+height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-PPQCQB7" class="lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw=="></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div class="site-canvas">
+<div id="page" class="site-container">
+<div class="site-inner">
+		<div id="content" class="site-content">
+		<div class="container">
+			<div id="primary" class="content-area">
+	<main id="main" class="site-main">
+			<div data-elementor-type="wp-page" data-elementor-id="290" class="elementor elementor-290" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-6753c5d6 elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="6753c5d6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;,&quot;shape_divider_bottom&quot;:&quot;drops&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M0 0v1.4c.6.7 1.1 1.4 1.4 2 2 3.8 2.2 6.6 1.8 10.8-.3 3.3-2.4 9.4 0 12.3 1.7 2 3.7 1.4 4.6-.9 1.4-3.8-.7-8.2-.6-12 .1-3.7 3.2-5.5 6.9-4.9 4 .6 4.8 4 4.9 7.4.1 1.8-1.1 7 0 8.5.6.8 1.6 1.2 2.4.5 1.4-1.1.1-5.4.1-6.9.1-3.7.3-8.6 4.1-10.5 5-2.5 6.2 1.6 5.4 5.6-.4 1.7-1 9.2 2.9 6.3 1.5-1.1.7-3.5.5-4.9-.4-2.4-.4-4.3 1-6.5.9-1.4 2.4-3.1 4.2-3 2.4.1 2.7 2.2 4 3.7 1.5 1.8 1.8 2.2 3 .1 1.1-1.9 1.2-2.8 3.6-3.3 1.3-.3 4.8-1.4 5.9-.5 1.5 1.1.6 2.8.4 4.3-.2 1.1-.6 4 1.8 3.4 1.7-.4-.3-4.1.6-5.6 1.3-2.2 5.8-1.4 7 .5 1.3 2.1.5 5.8.1 8.1s-1.2 5-.6 7.4c1.3 5.1 4.4.9 4.3-2.4-.1-4.4-2-8.8-.5-13 .9-2.4 4.6-6.6 7.7-4.5 2.7 1.8.5 7.8.2 10.3-.2 1.7-.8 4.6.2 6.2.9 1.4 2 1.5 2.6-.3.5-1.5-.9-4.5-1-6.1-.2-1.7-.4-3.7.2-5.4 1.8-5.6 3.5 2.4 6.3.6 1.4-.9 4.3-9.4 6.1-3.1.6 2.2-1.3 7.8.7 8.9 4.2 2.3 1.5-7.1 2.2-8 3.1-4 4.7 3.8 6.1 4.1 3.1.7 2.8-7.9 8.1-4.5 1.7 1.1 2.9 3.3 3.2 5.2.4 2.2-1 4.5-.6 6.6 1 4.3 4.4 1.5 4.4-1.7 0-2.7-3-8.3 1.4-9.1 4.4-.9 7.3 3.5 7.8 6.9.3 2-1.5 10.9 1.3 11.3 4.1.6-3.2-15.7 4.8-15.8 4.7-.1 2.8 4.1 3.9 6.6 1 2.4 2.1 1 2.3-.8.3-1.9-.9-3.2 1.3-4.3 5.9-2.9 5.9 5.4 5.5 8.5-.3 2-1.7 8.4 2 8.1 6.9-.5-2.8-16.9 4.8-18.7 4.7-1.2 6.1 3.6 6.3 7.1.1 1.7-1.2 8.1.6 9.1 3.5 2 1.9-7 2-8.4.2-4 1.2-9.6 6.4-9.8 4.7-.2 3.2 4.6 2.7 7.5-.4 2.2 1.3 8.6 3.8 4.4 1.1-1.9-.3-4.1-.3-6 0-1.7.4-3.2 1.3-4.6 1-1.6 2.9-3.5 5.1-2.9 2.5.6 2.3 4.1 4.1 4.9 1.9.8 1.6-.9 2.3-2.1 1.2-2.1 2.1-2.1 4.4-2.4 1.4-.2 3.6-1.5 4.9-.5 2.3 1.7-.7 4.4.1 6.5.6 1.5 2.1 1.7 2.8.3.7-1.4-1.1-3.4-.3-4.8 1.4-2.5 6.2-1.2 7.2 1 2.3 4.8-3.3 12-.2 16.3 3 4.1 3.9-2.8 3.8-4.8-.4-4.3-2.1-8.9 0-13.1 1.3-2.5 5.9-5.7 7.9-2.4 2 3.2-1.3 9.8-.8 13.4.5 4.4 3.5 3.3 2.7-.8-.4-1.9-2.4-10 .6-11.1 3.7-1.4 2.8 7.2 6.5.4 2.2-4.1 4.9-3.1 5.2 1.2.1 1.5-.6 3.1-.4 4.6.2 1.9 1.8 3.7 3.3 1.3 1-1.6-2.6-10.4 2.9-7.3 2.6 1.5 1.6 6.5 4.8 2.7 1.3-1.5 1.7-3.6 4-3.7 2.2-.1 4 2.3 4.8 4.1 1.3 2.9-1.5 8.4.9 10.3 4.2 3.3 3-5.5 2.7-6.9-.6-3.9 1-7.2 5.5-5 4.1 2.1 4.3 7.7 4.1 11.6 0 .8-.6 9.5 2.5 5.2 1.2-1.7-.1-7.7.1-9.6.3-2.9 1.2-5.5 4.3-6.2 4.5-1 7.7 1.5 7.4 5.8-.2 3.5-1.8 7.7-.5 11.1 1 2.7 3.6 2.8 5 .2 1.6-3.1 0-8.3-.4-11.6-.4-4.2-.2-7 1.8-10.8 0 0-.1.1-.1.2-.2.4-.3.7-.4.8v.1c-.1.2-.1.2 0 0v-.1l.4-.8c0-.1.1-.1.1-.2.2-.4.5-.8.8-1.2V0H0zM282.7 3.4z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1c9f4a8d elementor-invisible elementor-column elementor-col-100 elementor-top-column" data-id="1c9f4a8d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4348dab0 elementor-widget elementor-widget-image" data-id="4348dab0" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;pulse&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="750" height="742"   alt="" data-src="https://rifky.net/wp-content/uploads/2019/04/Voucher-Google-Play.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="750" height="742" src="https://ok-shopping.online/wp-content/uploads/2020/08/gfhfgjghjghj-768x760.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-36119c1c elementor-widget elementor-widget-heading" data-id="36119c1c" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;zoomIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-xxl">Googleplay Redeem Code Generator</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-165e7635 elementor-widget elementor-widget-text-editor" data-id="165e7635" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #00ccff;">Trusted</span> &#8211; <span style="color: #00ff00;">Safe</span> &#8211; <span style="color: #ff6600;">Fastest</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2ff1a549 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="2ff1a549" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://givegpc.premiumkan.com/" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">AKSES GENERATOR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2da3c23 elementor-widget elementor-widget-text-editor" data-id="2da3c23" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><div class="draft-block draft-block-unstyled"><p style="text-align: center;"><span data-text="true">Pembuat kode penukaran adalah alat yang menghasilkan kode penukaran Kode Google Play khusus yang dapat digunakan untuk mengklaim saldo secara eksklusif.</span></p></div></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7543339f elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="7543339f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;,&quot;shape_divider_bottom&quot;:&quot;drops&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M0 0v1.4c.6.7 1.1 1.4 1.4 2 2 3.8 2.2 6.6 1.8 10.8-.3 3.3-2.4 9.4 0 12.3 1.7 2 3.7 1.4 4.6-.9 1.4-3.8-.7-8.2-.6-12 .1-3.7 3.2-5.5 6.9-4.9 4 .6 4.8 4 4.9 7.4.1 1.8-1.1 7 0 8.5.6.8 1.6 1.2 2.4.5 1.4-1.1.1-5.4.1-6.9.1-3.7.3-8.6 4.1-10.5 5-2.5 6.2 1.6 5.4 5.6-.4 1.7-1 9.2 2.9 6.3 1.5-1.1.7-3.5.5-4.9-.4-2.4-.4-4.3 1-6.5.9-1.4 2.4-3.1 4.2-3 2.4.1 2.7 2.2 4 3.7 1.5 1.8 1.8 2.2 3 .1 1.1-1.9 1.2-2.8 3.6-3.3 1.3-.3 4.8-1.4 5.9-.5 1.5 1.1.6 2.8.4 4.3-.2 1.1-.6 4 1.8 3.4 1.7-.4-.3-4.1.6-5.6 1.3-2.2 5.8-1.4 7 .5 1.3 2.1.5 5.8.1 8.1s-1.2 5-.6 7.4c1.3 5.1 4.4.9 4.3-2.4-.1-4.4-2-8.8-.5-13 .9-2.4 4.6-6.6 7.7-4.5 2.7 1.8.5 7.8.2 10.3-.2 1.7-.8 4.6.2 6.2.9 1.4 2 1.5 2.6-.3.5-1.5-.9-4.5-1-6.1-.2-1.7-.4-3.7.2-5.4 1.8-5.6 3.5 2.4 6.3.6 1.4-.9 4.3-9.4 6.1-3.1.6 2.2-1.3 7.8.7 8.9 4.2 2.3 1.5-7.1 2.2-8 3.1-4 4.7 3.8 6.1 4.1 3.1.7 2.8-7.9 8.1-4.5 1.7 1.1 2.9 3.3 3.2 5.2.4 2.2-1 4.5-.6 6.6 1 4.3 4.4 1.5 4.4-1.7 0-2.7-3-8.3 1.4-9.1 4.4-.9 7.3 3.5 7.8 6.9.3 2-1.5 10.9 1.3 11.3 4.1.6-3.2-15.7 4.8-15.8 4.7-.1 2.8 4.1 3.9 6.6 1 2.4 2.1 1 2.3-.8.3-1.9-.9-3.2 1.3-4.3 5.9-2.9 5.9 5.4 5.5 8.5-.3 2-1.7 8.4 2 8.1 6.9-.5-2.8-16.9 4.8-18.7 4.7-1.2 6.1 3.6 6.3 7.1.1 1.7-1.2 8.1.6 9.1 3.5 2 1.9-7 2-8.4.2-4 1.2-9.6 6.4-9.8 4.7-.2 3.2 4.6 2.7 7.5-.4 2.2 1.3 8.6 3.8 4.4 1.1-1.9-.3-4.1-.3-6 0-1.7.4-3.2 1.3-4.6 1-1.6 2.9-3.5 5.1-2.9 2.5.6 2.3 4.1 4.1 4.9 1.9.8 1.6-.9 2.3-2.1 1.2-2.1 2.1-2.1 4.4-2.4 1.4-.2 3.6-1.5 4.9-.5 2.3 1.7-.7 4.4.1 6.5.6 1.5 2.1 1.7 2.8.3.7-1.4-1.1-3.4-.3-4.8 1.4-2.5 6.2-1.2 7.2 1 2.3 4.8-3.3 12-.2 16.3 3 4.1 3.9-2.8 3.8-4.8-.4-4.3-2.1-8.9 0-13.1 1.3-2.5 5.9-5.7 7.9-2.4 2 3.2-1.3 9.8-.8 13.4.5 4.4 3.5 3.3 2.7-.8-.4-1.9-2.4-10 .6-11.1 3.7-1.4 2.8 7.2 6.5.4 2.2-4.1 4.9-3.1 5.2 1.2.1 1.5-.6 3.1-.4 4.6.2 1.9 1.8 3.7 3.3 1.3 1-1.6-2.6-10.4 2.9-7.3 2.6 1.5 1.6 6.5 4.8 2.7 1.3-1.5 1.7-3.6 4-3.7 2.2-.1 4 2.3 4.8 4.1 1.3 2.9-1.5 8.4.9 10.3 4.2 3.3 3-5.5 2.7-6.9-.6-3.9 1-7.2 5.5-5 4.1 2.1 4.3 7.7 4.1 11.6 0 .8-.6 9.5 2.5 5.2 1.2-1.7-.1-7.7.1-9.6.3-2.9 1.2-5.5 4.3-6.2 4.5-1 7.7 1.5 7.4 5.8-.2 3.5-1.8 7.7-.5 11.1 1 2.7 3.6 2.8 5 .2 1.6-3.1 0-8.3-.4-11.6-.4-4.2-.2-7 1.8-10.8 0 0-.1.1-.1.2-.2.4-.3.7-.4.8v.1c-.1.2-.1.2 0 0v-.1l.4-.8c0-.1.1-.1.1-.2.2-.4.5-.8.8-1.2V0H0zM282.7 3.4z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-28be3459 elementor-invisible elementor-column elementor-col-100 elementor-top-column" data-id="28be3459" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-21c543e9 elementor-widget elementor-widget-image" data-id="21c543e9" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="750" height="743"   alt="" data-src="https://laz-img-sg.alicdn.com/p/e8aa06902235e61ac9c9f8f24a617e2b.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="750" height="743" src="https://ok-shopping.online/wp-content/uploads/2020/08/gghjghjghjg-768x761.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b6569db elementor-widget elementor-widget-text-editor" data-id="b6569db" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Hasilkan Kredit tak terbatas dengan alat generator kami yang unik dan tidak pernah kehilangan satu pun game lagi. Generator online kami dapat dengan mudah diakses di browser web apa pun, baik itu desktop atau dari ponsel cerdas Anda.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-66289f01 elementor-widget elementor-widget-counter" data-id="66289f01" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;pulse&quot;}" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="4000" data-to-value="126118" data-from-value="0">0</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Jumlah orang yang telah mendapatkan kode</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-69d30f82 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="69d30f82" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;shake&quot;}" data-widget_type="button_lp.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://givegpc.premiumkan.com/" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">AKSES GENERATOR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1087939 elementor-widget elementor-widget-heading" data-id="1087939" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Cara Menggunakan Generator Kamu</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4c8fd6d elementor-widget elementor-widget-text-editor" data-id="4c8fd6d" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul><li style="text-align: left;">Kunjungi Generator kami <strong><span style="color: #ffff00;">Disini</span></strong> </li><li style="text-align: left;">Masukan Email penerima kode <strong><span style="color: #ffff00;"><br /></span></strong></li><li style="text-align: left;">Pilih Jumlah yang di inginkan<strong><span style="color: #ffff00;"></span></strong></li><li style="text-align: left;">Klik Mulai Generator<strong><span style="color: #ffff00;"></span></strong></li><li style="text-align: left;">Ikuti Setiap langkah yang ada<span style="color: #ffff00;"><strong></strong></span></li><li style="text-align: left;">Setelah proses selesai anda akan mendapatkan kode voucher nya<span style="color: #ffff00;"><strong></strong></span></li></ul></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-500c58ee elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="500c58ee" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;,&quot;shape_divider_bottom&quot;:&quot;drops&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M0 0v1.4c.6.7 1.1 1.4 1.4 2 2 3.8 2.2 6.6 1.8 10.8-.3 3.3-2.4 9.4 0 12.3 1.7 2 3.7 1.4 4.6-.9 1.4-3.8-.7-8.2-.6-12 .1-3.7 3.2-5.5 6.9-4.9 4 .6 4.8 4 4.9 7.4.1 1.8-1.1 7 0 8.5.6.8 1.6 1.2 2.4.5 1.4-1.1.1-5.4.1-6.9.1-3.7.3-8.6 4.1-10.5 5-2.5 6.2 1.6 5.4 5.6-.4 1.7-1 9.2 2.9 6.3 1.5-1.1.7-3.5.5-4.9-.4-2.4-.4-4.3 1-6.5.9-1.4 2.4-3.1 4.2-3 2.4.1 2.7 2.2 4 3.7 1.5 1.8 1.8 2.2 3 .1 1.1-1.9 1.2-2.8 3.6-3.3 1.3-.3 4.8-1.4 5.9-.5 1.5 1.1.6 2.8.4 4.3-.2 1.1-.6 4 1.8 3.4 1.7-.4-.3-4.1.6-5.6 1.3-2.2 5.8-1.4 7 .5 1.3 2.1.5 5.8.1 8.1s-1.2 5-.6 7.4c1.3 5.1 4.4.9 4.3-2.4-.1-4.4-2-8.8-.5-13 .9-2.4 4.6-6.6 7.7-4.5 2.7 1.8.5 7.8.2 10.3-.2 1.7-.8 4.6.2 6.2.9 1.4 2 1.5 2.6-.3.5-1.5-.9-4.5-1-6.1-.2-1.7-.4-3.7.2-5.4 1.8-5.6 3.5 2.4 6.3.6 1.4-.9 4.3-9.4 6.1-3.1.6 2.2-1.3 7.8.7 8.9 4.2 2.3 1.5-7.1 2.2-8 3.1-4 4.7 3.8 6.1 4.1 3.1.7 2.8-7.9 8.1-4.5 1.7 1.1 2.9 3.3 3.2 5.2.4 2.2-1 4.5-.6 6.6 1 4.3 4.4 1.5 4.4-1.7 0-2.7-3-8.3 1.4-9.1 4.4-.9 7.3 3.5 7.8 6.9.3 2-1.5 10.9 1.3 11.3 4.1.6-3.2-15.7 4.8-15.8 4.7-.1 2.8 4.1 3.9 6.6 1 2.4 2.1 1 2.3-.8.3-1.9-.9-3.2 1.3-4.3 5.9-2.9 5.9 5.4 5.5 8.5-.3 2-1.7 8.4 2 8.1 6.9-.5-2.8-16.9 4.8-18.7 4.7-1.2 6.1 3.6 6.3 7.1.1 1.7-1.2 8.1.6 9.1 3.5 2 1.9-7 2-8.4.2-4 1.2-9.6 6.4-9.8 4.7-.2 3.2 4.6 2.7 7.5-.4 2.2 1.3 8.6 3.8 4.4 1.1-1.9-.3-4.1-.3-6 0-1.7.4-3.2 1.3-4.6 1-1.6 2.9-3.5 5.1-2.9 2.5.6 2.3 4.1 4.1 4.9 1.9.8 1.6-.9 2.3-2.1 1.2-2.1 2.1-2.1 4.4-2.4 1.4-.2 3.6-1.5 4.9-.5 2.3 1.7-.7 4.4.1 6.5.6 1.5 2.1 1.7 2.8.3.7-1.4-1.1-3.4-.3-4.8 1.4-2.5 6.2-1.2 7.2 1 2.3 4.8-3.3 12-.2 16.3 3 4.1 3.9-2.8 3.8-4.8-.4-4.3-2.1-8.9 0-13.1 1.3-2.5 5.9-5.7 7.9-2.4 2 3.2-1.3 9.8-.8 13.4.5 4.4 3.5 3.3 2.7-.8-.4-1.9-2.4-10 .6-11.1 3.7-1.4 2.8 7.2 6.5.4 2.2-4.1 4.9-3.1 5.2 1.2.1 1.5-.6 3.1-.4 4.6.2 1.9 1.8 3.7 3.3 1.3 1-1.6-2.6-10.4 2.9-7.3 2.6 1.5 1.6 6.5 4.8 2.7 1.3-1.5 1.7-3.6 4-3.7 2.2-.1 4 2.3 4.8 4.1 1.3 2.9-1.5 8.4.9 10.3 4.2 3.3 3-5.5 2.7-6.9-.6-3.9 1-7.2 5.5-5 4.1 2.1 4.3 7.7 4.1 11.6 0 .8-.6 9.5 2.5 5.2 1.2-1.7-.1-7.7.1-9.6.3-2.9 1.2-5.5 4.3-6.2 4.5-1 7.7 1.5 7.4 5.8-.2 3.5-1.8 7.7-.5 11.1 1 2.7 3.6 2.8 5 .2 1.6-3.1 0-8.3-.4-11.6-.4-4.2-.2-7 1.8-10.8 0 0-.1.1-.1.2-.2.4-.3.7-.4.8v.1c-.1.2-.1.2 0 0v-.1l.4-.8c0-.1.1-.1.1-.2.2-.4.5-.8.8-1.2V0H0zM282.7 3.4z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-564100d8 elementor-invisible elementor-column elementor-col-100 elementor-top-column" data-id="564100d8" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-46c52b1 elementor-widget elementor-widget-image" data-id="46c52b1" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="750" height="741"   alt="" data-src="https://i.ytimg.com/vi/nEkOrcWjruw/maxresdefault.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="750" height="741" src="https://ok-shopping.online/wp-content/uploads/2020/08/qwdasdasd-768x759.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0d704df elementor-widget elementor-widget-image" data-id="0d704df" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="626" height="795"   alt="" data-src="https://premiumkan.com/GPC.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="626" height="795" src="https://ok-shopping.online/wp-content/uploads/2020/08/Harga.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div>
+				<!-- <div class="elementor-element elementor-element-60d724d elementor-widget elementor-widget-image" data-id="60d724d" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="750" height="1003"   alt="" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/gjfghfghfgh-768x1027.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="750" height="1003" src="https://ok-shopping.online/wp-content/uploads/2020/08/gjfghfghfgh-768x1027.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div> -->
+				<!-- <div class="elementor-element elementor-element-2b38c7c elementor-widget elementor-widget-image" data-id="2b38c7c" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="750" height="743"   alt="" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/vmvbncvbvbvbnvbn-768x761.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="750" height="743" src="https://ok-shopping.online/wp-content/uploads/2020/08/vmvbncvbvbvbnvbn-768x761.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div> -->
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-671d36ef elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="671d36ef" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;,&quot;shape_divider_bottom&quot;:&quot;drops&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M0 0v1.4c.6.7 1.1 1.4 1.4 2 2 3.8 2.2 6.6 1.8 10.8-.3 3.3-2.4 9.4 0 12.3 1.7 2 3.7 1.4 4.6-.9 1.4-3.8-.7-8.2-.6-12 .1-3.7 3.2-5.5 6.9-4.9 4 .6 4.8 4 4.9 7.4.1 1.8-1.1 7 0 8.5.6.8 1.6 1.2 2.4.5 1.4-1.1.1-5.4.1-6.9.1-3.7.3-8.6 4.1-10.5 5-2.5 6.2 1.6 5.4 5.6-.4 1.7-1 9.2 2.9 6.3 1.5-1.1.7-3.5.5-4.9-.4-2.4-.4-4.3 1-6.5.9-1.4 2.4-3.1 4.2-3 2.4.1 2.7 2.2 4 3.7 1.5 1.8 1.8 2.2 3 .1 1.1-1.9 1.2-2.8 3.6-3.3 1.3-.3 4.8-1.4 5.9-.5 1.5 1.1.6 2.8.4 4.3-.2 1.1-.6 4 1.8 3.4 1.7-.4-.3-4.1.6-5.6 1.3-2.2 5.8-1.4 7 .5 1.3 2.1.5 5.8.1 8.1s-1.2 5-.6 7.4c1.3 5.1 4.4.9 4.3-2.4-.1-4.4-2-8.8-.5-13 .9-2.4 4.6-6.6 7.7-4.5 2.7 1.8.5 7.8.2 10.3-.2 1.7-.8 4.6.2 6.2.9 1.4 2 1.5 2.6-.3.5-1.5-.9-4.5-1-6.1-.2-1.7-.4-3.7.2-5.4 1.8-5.6 3.5 2.4 6.3.6 1.4-.9 4.3-9.4 6.1-3.1.6 2.2-1.3 7.8.7 8.9 4.2 2.3 1.5-7.1 2.2-8 3.1-4 4.7 3.8 6.1 4.1 3.1.7 2.8-7.9 8.1-4.5 1.7 1.1 2.9 3.3 3.2 5.2.4 2.2-1 4.5-.6 6.6 1 4.3 4.4 1.5 4.4-1.7 0-2.7-3-8.3 1.4-9.1 4.4-.9 7.3 3.5 7.8 6.9.3 2-1.5 10.9 1.3 11.3 4.1.6-3.2-15.7 4.8-15.8 4.7-.1 2.8 4.1 3.9 6.6 1 2.4 2.1 1 2.3-.8.3-1.9-.9-3.2 1.3-4.3 5.9-2.9 5.9 5.4 5.5 8.5-.3 2-1.7 8.4 2 8.1 6.9-.5-2.8-16.9 4.8-18.7 4.7-1.2 6.1 3.6 6.3 7.1.1 1.7-1.2 8.1.6 9.1 3.5 2 1.9-7 2-8.4.2-4 1.2-9.6 6.4-9.8 4.7-.2 3.2 4.6 2.7 7.5-.4 2.2 1.3 8.6 3.8 4.4 1.1-1.9-.3-4.1-.3-6 0-1.7.4-3.2 1.3-4.6 1-1.6 2.9-3.5 5.1-2.9 2.5.6 2.3 4.1 4.1 4.9 1.9.8 1.6-.9 2.3-2.1 1.2-2.1 2.1-2.1 4.4-2.4 1.4-.2 3.6-1.5 4.9-.5 2.3 1.7-.7 4.4.1 6.5.6 1.5 2.1 1.7 2.8.3.7-1.4-1.1-3.4-.3-4.8 1.4-2.5 6.2-1.2 7.2 1 2.3 4.8-3.3 12-.2 16.3 3 4.1 3.9-2.8 3.8-4.8-.4-4.3-2.1-8.9 0-13.1 1.3-2.5 5.9-5.7 7.9-2.4 2 3.2-1.3 9.8-.8 13.4.5 4.4 3.5 3.3 2.7-.8-.4-1.9-2.4-10 .6-11.1 3.7-1.4 2.8 7.2 6.5.4 2.2-4.1 4.9-3.1 5.2 1.2.1 1.5-.6 3.1-.4 4.6.2 1.9 1.8 3.7 3.3 1.3 1-1.6-2.6-10.4 2.9-7.3 2.6 1.5 1.6 6.5 4.8 2.7 1.3-1.5 1.7-3.6 4-3.7 2.2-.1 4 2.3 4.8 4.1 1.3 2.9-1.5 8.4.9 10.3 4.2 3.3 3-5.5 2.7-6.9-.6-3.9 1-7.2 5.5-5 4.1 2.1 4.3 7.7 4.1 11.6 0 .8-.6 9.5 2.5 5.2 1.2-1.7-.1-7.7.1-9.6.3-2.9 1.2-5.5 4.3-6.2 4.5-1 7.7 1.5 7.4 5.8-.2 3.5-1.8 7.7-.5 11.1 1 2.7 3.6 2.8 5 .2 1.6-3.1 0-8.3-.4-11.6-.4-4.2-.2-7 1.8-10.8 0 0-.1.1-.1.2-.2.4-.3.7-.4.8v.1c-.1.2-.1.2 0 0v-.1l.4-.8c0-.1.1-.1.1-.2.2-.4.5-.8.8-1.2V0H0zM282.7 3.4z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-73d3286f elementor-column elementor-col-100 elementor-top-column" data-id="73d3286f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3ba4868f elementor-widget elementor-widget-heading" data-id="3ba4868f" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"></h2>		</div>
+				</div>
+				<!-- <div class="elementor-element elementor-element-20d7a787 elementor-pagination-position-inside elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="20d7a787" data-element_type="widget" data-settings="{&quot;autoplay_speed&quot;:3000,&quot;_animation_mobile&quot;:&quot;pulse&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-19-07-52-10-446_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-19-07-52-10-446_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-19-07-52-10-446_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-19-07-52-10-446_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-18-17-59-54-383_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-18-17-59-54-383_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-18-17-59-54-383_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-18-17-59-54-383_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-18-20-55-03-635_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-18-20-55-03-635_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-18-20-55-03-635_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-18-20-55-03-635_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-15-19-53-51-169_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-15-19-53-51-169_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-15-19-53-51-169_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-15-19-53-51-169_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-15-18-52-57-013_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-15-18-52-57-013_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-15-18-52-57-013_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-15-18-52-57-013_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-18-23-46-00-324_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-18-23-46-00-324_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-18-23-46-00-324_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-18-23-46-00-324_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-15-19-51-55-538_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-15-19-51-55-538_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-15-19-51-55-538_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-15-19-51-55-538_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-19-09-41-28-641_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-19-09-41-28-641_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-19-09-41-28-641_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-19-09-41-28-641_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-17-23-26-27-759_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-17-23-26-27-759_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-17-23-26-27-759_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-17-23-26-27-759_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-17-22-03-04-688_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-17-22-03-04-688_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-17-22-03-04-688_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-17-22-03-04-688_com.whatsapp.w4b" /></noscript></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img   alt="Screenshot_2020-08-19-00-08-27-426_com.whatsapp.w4b" data-src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-19-00-08-27-426_com.whatsapp.w4b.jpg" class="swiper-slide-image lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img class="swiper-slide-image" src="https://ok-shopping.online/wp-content/uploads/2020/08/Screenshot_2020-08-19-00-08-27-426_com.whatsapp.w4b.jpg" alt="Screenshot_2020-08-19-00-08-27-426_com.whatsapp.w4b" /></noscript></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div> -->
+				<div class="elementor-element elementor-element-5644e4d1 elementor-widget elementor-widget-heading" data-id="5644e4d1" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;pulse&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Silahkan Tunggu Email Pengiriman kode biasanya akan di kirimkan 48jam hari kerja, Selamat mencoba dan salam gratisan ^_^  </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1284fd86 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="1284fd86" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_lp.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://givegpc.premiumkan.com/" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">AKSES GENERATOR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<!-- <section class="elementor-element elementor-element-1e57df18 elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="1e57df18" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;,&quot;shape_divider_bottom&quot;:&quot;drops&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M0 0v1.4c.6.7 1.1 1.4 1.4 2 2 3.8 2.2 6.6 1.8 10.8-.3 3.3-2.4 9.4 0 12.3 1.7 2 3.7 1.4 4.6-.9 1.4-3.8-.7-8.2-.6-12 .1-3.7 3.2-5.5 6.9-4.9 4 .6 4.8 4 4.9 7.4.1 1.8-1.1 7 0 8.5.6.8 1.6 1.2 2.4.5 1.4-1.1.1-5.4.1-6.9.1-3.7.3-8.6 4.1-10.5 5-2.5 6.2 1.6 5.4 5.6-.4 1.7-1 9.2 2.9 6.3 1.5-1.1.7-3.5.5-4.9-.4-2.4-.4-4.3 1-6.5.9-1.4 2.4-3.1 4.2-3 2.4.1 2.7 2.2 4 3.7 1.5 1.8 1.8 2.2 3 .1 1.1-1.9 1.2-2.8 3.6-3.3 1.3-.3 4.8-1.4 5.9-.5 1.5 1.1.6 2.8.4 4.3-.2 1.1-.6 4 1.8 3.4 1.7-.4-.3-4.1.6-5.6 1.3-2.2 5.8-1.4 7 .5 1.3 2.1.5 5.8.1 8.1s-1.2 5-.6 7.4c1.3 5.1 4.4.9 4.3-2.4-.1-4.4-2-8.8-.5-13 .9-2.4 4.6-6.6 7.7-4.5 2.7 1.8.5 7.8.2 10.3-.2 1.7-.8 4.6.2 6.2.9 1.4 2 1.5 2.6-.3.5-1.5-.9-4.5-1-6.1-.2-1.7-.4-3.7.2-5.4 1.8-5.6 3.5 2.4 6.3.6 1.4-.9 4.3-9.4 6.1-3.1.6 2.2-1.3 7.8.7 8.9 4.2 2.3 1.5-7.1 2.2-8 3.1-4 4.7 3.8 6.1 4.1 3.1.7 2.8-7.9 8.1-4.5 1.7 1.1 2.9 3.3 3.2 5.2.4 2.2-1 4.5-.6 6.6 1 4.3 4.4 1.5 4.4-1.7 0-2.7-3-8.3 1.4-9.1 4.4-.9 7.3 3.5 7.8 6.9.3 2-1.5 10.9 1.3 11.3 4.1.6-3.2-15.7 4.8-15.8 4.7-.1 2.8 4.1 3.9 6.6 1 2.4 2.1 1 2.3-.8.3-1.9-.9-3.2 1.3-4.3 5.9-2.9 5.9 5.4 5.5 8.5-.3 2-1.7 8.4 2 8.1 6.9-.5-2.8-16.9 4.8-18.7 4.7-1.2 6.1 3.6 6.3 7.1.1 1.7-1.2 8.1.6 9.1 3.5 2 1.9-7 2-8.4.2-4 1.2-9.6 6.4-9.8 4.7-.2 3.2 4.6 2.7 7.5-.4 2.2 1.3 8.6 3.8 4.4 1.1-1.9-.3-4.1-.3-6 0-1.7.4-3.2 1.3-4.6 1-1.6 2.9-3.5 5.1-2.9 2.5.6 2.3 4.1 4.1 4.9 1.9.8 1.6-.9 2.3-2.1 1.2-2.1 2.1-2.1 4.4-2.4 1.4-.2 3.6-1.5 4.9-.5 2.3 1.7-.7 4.4.1 6.5.6 1.5 2.1 1.7 2.8.3.7-1.4-1.1-3.4-.3-4.8 1.4-2.5 6.2-1.2 7.2 1 2.3 4.8-3.3 12-.2 16.3 3 4.1 3.9-2.8 3.8-4.8-.4-4.3-2.1-8.9 0-13.1 1.3-2.5 5.9-5.7 7.9-2.4 2 3.2-1.3 9.8-.8 13.4.5 4.4 3.5 3.3 2.7-.8-.4-1.9-2.4-10 .6-11.1 3.7-1.4 2.8 7.2 6.5.4 2.2-4.1 4.9-3.1 5.2 1.2.1 1.5-.6 3.1-.4 4.6.2 1.9 1.8 3.7 3.3 1.3 1-1.6-2.6-10.4 2.9-7.3 2.6 1.5 1.6 6.5 4.8 2.7 1.3-1.5 1.7-3.6 4-3.7 2.2-.1 4 2.3 4.8 4.1 1.3 2.9-1.5 8.4.9 10.3 4.2 3.3 3-5.5 2.7-6.9-.6-3.9 1-7.2 5.5-5 4.1 2.1 4.3 7.7 4.1 11.6 0 .8-.6 9.5 2.5 5.2 1.2-1.7-.1-7.7.1-9.6.3-2.9 1.2-5.5 4.3-6.2 4.5-1 7.7 1.5 7.4 5.8-.2 3.5-1.8 7.7-.5 11.1 1 2.7 3.6 2.8 5 .2 1.6-3.1 0-8.3-.4-11.6-.4-4.2-.2-7 1.8-10.8 0 0-.1.1-.1.2-.2.4-.3.7-.4.8v.1c-.1.2-.1.2 0 0v-.1l.4-.8c0-.1.1-.1.1-.2.2-.4.5-.8.8-1.2V0H0zM282.7 3.4z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2cadf045 elementor-column elementor-col-100 elementor-top-column" data-id="2cadf045" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bd71baf elementor-widget elementor-widget-text-editor" data-id="bd71baf" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #000000;"><strong><span style="color: #ffff00;">– Apakah Layanan Ini Aman</span><br /></strong></span><span style="color: #ffffff;">Kami menjamin keamanan akun anda serta privasi akun. Karena kami melakukan proses dengan metode legal, tanpa password akun dan sudah terpercaya melayani.</span><br /><span style="color: #ffffff;">Akun social media anda tidak akan terkena banned maupun susspend dengan melakukan order layanan di kami.</span></p><p><span style="color: #ffff00;"><strong>– <b>Berapa lama pengerjaannya?</b></strong></span><br /><span style="color: #ffffff;">Untuk pengerjaan followers tergantung paket apa yang Anda ambil. Umumnya follower rata-rata masuk <strong>estimasi</strong> 1 x 24 jam, namun biasanya masuk hanya beberapa jam saja , tetapi tidak menutup kemungkinan bisa melebihi 24 jam tergantung antrian pesanan pada server. <strong>Jika Anda termasuk orang yang tidak sabaran, kemungkinan jasa kami tidak cocok dengan Anda.</strong></span></p><p><span style="color: #ffff00;"><strong>– <b>Apakah Butuh Password ?</b></strong></span><br /><span style="color: #ffffff;">Tidak, kami tidak membutuhkan password. Sehingga akun anda akan tetap aman 100% .</span></p><p><span style="color: #ffff00;">&#8211; <b>Bagaimana jika akun saya di privat / di lock?</b></span><br /><span style="color: #ffffff;">Silahkan dibuka atau unprivat dahulu, karena kita tidak dapat memproses penambahkan Follower dan Like. Jika dalam proses pengerjaan lalu akun Anda diprivat/dilock/ganti username maka otomatis Anda telah menyelesaikan pesanan dan tidak ada refund.</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5c41b40d elementor-widget elementor-widget-text-editor" data-id="5c41b40d" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;slideInUp&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><div class="draft-block draft-block-unstyled"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="color: #ffffff;" data-text="true">✅ Followers Aktif Asli Indo</span></div></div><div class="draft-block draft-block-unstyled"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="color: #ffffff;">✅ Akun Berkualitas</span></div></div><div class="draft-block draft-block-unstyled"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="color: #ffffff;">✅ Ramah Dan Berpengalaman</span></div></div><div class="draft-block draft-block-unstyled"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="color: #ffffff;">✅ Garansi Kepuasan Pelanggan</span></div></div><div class="draft-block draft-block-unstyled"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span style="color: #ffffff;">✅ Garansi Uang Kembali</span></div></div><div class="draft-block draft-block-unstyled"><div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><p><span style="color: #ffffff;">✅ Harga Termurah</span></p></div></div><div><strong><span style="color: #ffff00;">– Ayo Tunggu Apalagi ?</span><br /></strong><span style="color: #ffffff;">Jadikan instagranmu lebih di kenal orang sehingga instagramu jadi sumber penghasilan mu, Mungpung masih ada promo 50% di jamin termurah di banding yang lain, kami tunggu orderanya .</span></div></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section> -->
+				<section class="elementor-element elementor-element-1e2f80ec elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="1e2f80ec" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;,&quot;shape_divider_bottom&quot;:&quot;drops&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M0 0v1.4c.6.7 1.1 1.4 1.4 2 2 3.8 2.2 6.6 1.8 10.8-.3 3.3-2.4 9.4 0 12.3 1.7 2 3.7 1.4 4.6-.9 1.4-3.8-.7-8.2-.6-12 .1-3.7 3.2-5.5 6.9-4.9 4 .6 4.8 4 4.9 7.4.1 1.8-1.1 7 0 8.5.6.8 1.6 1.2 2.4.5 1.4-1.1.1-5.4.1-6.9.1-3.7.3-8.6 4.1-10.5 5-2.5 6.2 1.6 5.4 5.6-.4 1.7-1 9.2 2.9 6.3 1.5-1.1.7-3.5.5-4.9-.4-2.4-.4-4.3 1-6.5.9-1.4 2.4-3.1 4.2-3 2.4.1 2.7 2.2 4 3.7 1.5 1.8 1.8 2.2 3 .1 1.1-1.9 1.2-2.8 3.6-3.3 1.3-.3 4.8-1.4 5.9-.5 1.5 1.1.6 2.8.4 4.3-.2 1.1-.6 4 1.8 3.4 1.7-.4-.3-4.1.6-5.6 1.3-2.2 5.8-1.4 7 .5 1.3 2.1.5 5.8.1 8.1s-1.2 5-.6 7.4c1.3 5.1 4.4.9 4.3-2.4-.1-4.4-2-8.8-.5-13 .9-2.4 4.6-6.6 7.7-4.5 2.7 1.8.5 7.8.2 10.3-.2 1.7-.8 4.6.2 6.2.9 1.4 2 1.5 2.6-.3.5-1.5-.9-4.5-1-6.1-.2-1.7-.4-3.7.2-5.4 1.8-5.6 3.5 2.4 6.3.6 1.4-.9 4.3-9.4 6.1-3.1.6 2.2-1.3 7.8.7 8.9 4.2 2.3 1.5-7.1 2.2-8 3.1-4 4.7 3.8 6.1 4.1 3.1.7 2.8-7.9 8.1-4.5 1.7 1.1 2.9 3.3 3.2 5.2.4 2.2-1 4.5-.6 6.6 1 4.3 4.4 1.5 4.4-1.7 0-2.7-3-8.3 1.4-9.1 4.4-.9 7.3 3.5 7.8 6.9.3 2-1.5 10.9 1.3 11.3 4.1.6-3.2-15.7 4.8-15.8 4.7-.1 2.8 4.1 3.9 6.6 1 2.4 2.1 1 2.3-.8.3-1.9-.9-3.2 1.3-4.3 5.9-2.9 5.9 5.4 5.5 8.5-.3 2-1.7 8.4 2 8.1 6.9-.5-2.8-16.9 4.8-18.7 4.7-1.2 6.1 3.6 6.3 7.1.1 1.7-1.2 8.1.6 9.1 3.5 2 1.9-7 2-8.4.2-4 1.2-9.6 6.4-9.8 4.7-.2 3.2 4.6 2.7 7.5-.4 2.2 1.3 8.6 3.8 4.4 1.1-1.9-.3-4.1-.3-6 0-1.7.4-3.2 1.3-4.6 1-1.6 2.9-3.5 5.1-2.9 2.5.6 2.3 4.1 4.1 4.9 1.9.8 1.6-.9 2.3-2.1 1.2-2.1 2.1-2.1 4.4-2.4 1.4-.2 3.6-1.5 4.9-.5 2.3 1.7-.7 4.4.1 6.5.6 1.5 2.1 1.7 2.8.3.7-1.4-1.1-3.4-.3-4.8 1.4-2.5 6.2-1.2 7.2 1 2.3 4.8-3.3 12-.2 16.3 3 4.1 3.9-2.8 3.8-4.8-.4-4.3-2.1-8.9 0-13.1 1.3-2.5 5.9-5.7 7.9-2.4 2 3.2-1.3 9.8-.8 13.4.5 4.4 3.5 3.3 2.7-.8-.4-1.9-2.4-10 .6-11.1 3.7-1.4 2.8 7.2 6.5.4 2.2-4.1 4.9-3.1 5.2 1.2.1 1.5-.6 3.1-.4 4.6.2 1.9 1.8 3.7 3.3 1.3 1-1.6-2.6-10.4 2.9-7.3 2.6 1.5 1.6 6.5 4.8 2.7 1.3-1.5 1.7-3.6 4-3.7 2.2-.1 4 2.3 4.8 4.1 1.3 2.9-1.5 8.4.9 10.3 4.2 3.3 3-5.5 2.7-6.9-.6-3.9 1-7.2 5.5-5 4.1 2.1 4.3 7.7 4.1 11.6 0 .8-.6 9.5 2.5 5.2 1.2-1.7-.1-7.7.1-9.6.3-2.9 1.2-5.5 4.3-6.2 4.5-1 7.7 1.5 7.4 5.8-.2 3.5-1.8 7.7-.5 11.1 1 2.7 3.6 2.8 5 .2 1.6-3.1 0-8.3-.4-11.6-.4-4.2-.2-7 1.8-10.8 0 0-.1.1-.1.2-.2.4-.3.7-.4.8v.1c-.1.2-.1.2 0 0v-.1l.4-.8c0-.1.1-.1.1-.2.2-.4.5-.8.8-1.2V0H0zM282.7 3.4z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1dd1f94 elementor-column elementor-col-100 elementor-top-column" data-id="1dd1f94" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-52ee37f2 elementor-widget elementor-widget-counter" data-id="52ee37f2" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;pulse&quot;}" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-counter">
+			<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="243" data-from-value="1134">1134</span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+							<div class="elementor-counter-title">Orang yang hari ini telah melakukan penukaran kode</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-11ca199d elementor-widget elementor-widget-image" data-id="11ca199d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="500"   alt="" data-src="https://ok-shopping.online/wp-content/uploads/2020/07/Arrows_down_animated.gif" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="500" height="500" src="https://ok-shopping.online/wp-content/uploads/2020/07/Arrows_down_animated.gif" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7ed93028 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_lp" data-id="7ed93028" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_lp.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://givegpc.premiumkan.com/" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">AKSES GENERATOR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1093081b elementor-button-warning elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button_sms" data-id="1093081b" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;headShake&quot;}" data-widget_type="button_sms.default">
+				<<!-- div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="sms:083136921021?body=Halo%20Kak,%20Saya%20Mau%20Beli%20Followers%20Atau%20Tanya%20Tanya%20Dulu." class="elementor-button-link elementor-button-popover elementor-button-popover-sms elementor-button elementor-size-md" data-title="Halo Kak, Saya Mau Beli Followers Atau Tanya Tanya Dulu." data-content="Halo Kak, Saya Mau Beli Followers Atau Tanya Tanya Dulu." data-animation="pop" data-placement="auto">
+				<span class="elementor-button-content-wrapper">
+											<span class="elementor-align-icon-left elementor-button-icon">
+							<i class="fa fa-comments"></i>
+						</span>
+										<span class="elementor-button-text">AKSES GENERATOR</span>
+				</span>
+			</a>
+		</div>
+				</div> -->
+				</div>
+				<div class="elementor-element elementor-element-20050bf9 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="20050bf9" data-element_type="widget" data-settings="{&quot;highlighted_text&quot;:&quot;Tutup&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;marker&quot;:&quot;circle&quot;}" data-widget_type="animated-headline.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-headline">
+							<span class="elementor-headline-plain-text elementor-headline-text-wrapper">Event ini akan di </span>
+						<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper"></span>
+							<span class="elementor-headline-plain-text elementor-headline-text-wrapper">Setelah :</span>
+					</span>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-414796dd elementor-countdown--label-block elementor-widget elementor-widget-countdown" data-id="414796dd" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;zoomIn&quot;}" data-widget_type="countdown.default">
+				<div class="elementor-widget-container">
+					<div data-evergreen-interval="25200" data-expire-actions="[{&quot;type&quot;:&quot;message&quot;}]" class="elementor-countdown-wrapper" data-date="">
+			<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours"></span> <span class="elementor-countdown-label">Hours</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes"></span> <span class="elementor-countdown-label">Minutes</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds"></span> <span class="elementor-countdown-label">Seconds</span></div>		</div>
+		<div class="elementor-countdown-expire--message"></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6b3dfc52 elementor-widget elementor-widget-text-editor" data-id="6b3dfc52" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 class="tebal" style="text-align: center;"><span style="color: #ffffff;"><span style="color: #ffff00;">100% Aman dan Terpercaya </span></span><br /><span style="color: #ffffff;"></span></h4></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2b795e4 elementor-mobile-align-center elementor-widget elementor-widget-button_lp" data-id="2b795e4" data-element_type="widget" data-settings="{&quot;_animation_mobile&quot;:&quot;none&quot;}" data-widget_type="button_lp.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper elementor-button-sticky-yes">
+			<a href="https://givegpc.premiumkan.com/" class="elementor-button-link elementor-button elementor-size-md" role="button" id="data-bisa">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">AKSES GENERATOR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-69cb6bd3 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="69cb6bd3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-556befd1 elementor-column elementor-col-100 elementor-top-column" data-id="556befd1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5f551cf7 elementor-widget elementor-widget-image" data-id="5f551cf7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="626" height="417"   alt="" data-src="https://www.droid-life.com/wp-content/uploads/2013/08/DSC06889-small.jpg" class="attachment-medium_large size-medium_large lazyload" src="data:image/gif;base64,R0lGV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiAEAAAICTAEAOw==" /><noscript><img width="626" height="417" src="https://ok-shopping.online/wp-content/uploads/2020/08/portrait-asian-women-with-happy-face-yellow-wall_180886-48.jpg" class="attachment-medium_large size-medium_large" alt="" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+			</main>
 </div>
+					</div>
+	</div>
+	</div></div></div><div id="back-to-top"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg></div><link rel='stylesheet' id='webui-popover-css'  href='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/lib/webui-popover/jquery.webui-popover.min.css?ver=1.2.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.6.3' defer='defer'></script>
+<script type='text/javascript'>
+lazySizes.cfg.nativeLoading={setLoadingAttribute:false,disableListeners:{scroll:true}};lazySizes.init();
+</script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/lib/webui-popover/jquery.webui-popover.min.js?ver=1.2.15' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.13' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.3' defer='defer'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/ok-shopping.online\/wp-admin\/admin-ajax.php","nonce":"89b2720a3e","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/ok-shopping.online\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.3' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.13' defer='defer'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/ok-shopping.online\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":290,"title":"Jual%20Followers%20Instagram%20%E2%80%93%20Madu%20Maag%20Salam","excerpt":"","featuredImage":false}};
+</script>
 
-        <div class="widget item-absolute  " id="element-127">
-  <div class="contents cropped item-block" data-at="image-cropp">
-      <img
-        class="item-content-box item-block image "
-        data-at="image"
-        alt=""
-        src="//v.fastcdn.co/u/4ad48322/55450976-0-Ini-Arti-di-Balik-Lo.jpg"
-        srcset="//v.fastcdn.co/u/4ad48322/55450976-0-Ini-Arti-di-Balik-Lo.jpg 2x"
-      >
-  </div>
-</div>
+  
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4367533,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4367533&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13' defer='defer'></script>
+<script type='text/javascript' src='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/js/script.min.js?ver=3.0.0' defer='defer'></script>
 
-        <div class="widget item-absolute paragraph  " id="element-8" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_dc68832a x_2c80ab57"><span  class="x_76ffb0ab">Generate unlimited of UC and BP with our one of a kind generator tool and never lose a single game again. Our online generator can be easily accessed on any web browsers, be it desktop or from your smartphone.</span></p>
-  </div>
-</div>
-
-        <div class="widget item-absolute  " id="element-128">
-  <a
-    href="https://mole.generator2021.com/" 
-    id="link-oir31hgm75"
-    
-    class="url-link btn    item-block"
-    data-at="button"
-    data-link-oir31hgm75
-    
-    
-  >
-      GO TO GENERATOR
-  </a>
-</div>
-
-    </div>
-  </div>
-</section>
-
-    <section class="section section-relative " id="page-block-gtsqerh7t74" data-at="section">
-   
-  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
-  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
-  <div class="section-block">
-    <div class="section-inner section-fit section-relative">
-        <div class="widget item-absolute " id="element-78">
-  <div
-    class="contents shape  box figure " 
-    data-at="shape" 
-    
-  ></div>
-</div>
-
-        <div class="widget item-absolute " id="element-79">
-  <div
-    class="contents shape  box figure " 
-    data-at="shape" 
-    
-  ></div>
-</div>
-
-        <div class="widget item-absolute headline  " id="element-95" data-at="headline">
-  <div class="contents">
-    <h3>
-      <p  class="x_da6ad2be"></p><p  class="x_da6ad2be">    </p><p  class="x_da6ad2be">     HOW TO USE OUR GENERATORS :</p><p  class="x_da6ad2be">   </p>
-    </h3>
-  </div>
-</div>
-
-        <div class="widget item-absolute paragraph  " id="element-115" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_9811881d"></p><p  class="x_9811881d">Using our Generators may benefit your gameplay so much that soon there is no real point in playing the game anymore, however – should that occur, you could always start again, or play legit on one device, and have fun on the other device by using our Generators.</p>
-  </div>
-</div>
-
-        <div class="widget item-absolute paragraph  " id="element-118" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_8c071feb"></p><ol  class="x_b6c3675a"><li  ><span  class="x_22a0fbd4">Visit Our <u  ><a href="https://mole.generator2021.com/" id="link-rfpx2ie2s" data-link-rfpx2ie2s class="url-link">MobileLegendsGenerator</a></u> &nbsp;</span></li><li  ><span  class="x_22a0fbd4">Select amount of UC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></li><li  ><span  class="x_aab29cef">Enter Email or Username&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br></li><li  ><span  class="x_22a0fbd4">Click Generate Button&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li><li  ><span  class="x_22a0fbd4">Follow The Instruction&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></li><li  ><span  class="x_22a0fbd4">Redeem Code Will Send To your Account</span></li></ol>
-  </div>
-</div>
-
-    </div>
-  </div>
-</section>
-
-    <section class="section section-relative " id="page-block-0v5h08wcwvb" data-at="section">
-   
-  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
-  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
-  <div class="section-block">
-    <div class="section-inner section-fit section-relative">
-        <div class="widget item-absolute headline  " id="element-67" data-at="headline">
-  <div class="contents">
-    <h1>
-      <p  class="x_b614627d x_f82204f0">    </p><p  class="x_b614627d x_f82204f0">Mobile Legends&nbsp;Generator 2021</p><p  class="x_b614627d x_f82204f0">   </p>
-    </h1>
-  </div>
-</div>
-
-        <div class="widget item-absolute  " id="element-129">
-  <a
-    href="https://mole.generator2021.com/" 
-    id="link-dz3lo07luv9"
-    
-    class="url-link btn    item-block"
-    data-at="button"
-    data-link-dz3lo07luv9
-    
-    
-  >
-      GO TO GENERATOR
-  </a>
-</div>
-
-    </div>
-  </div>
-</section>
-
-    <section class="section section-relative " id="page-block-r8z30w9r04" data-at="section">
-   
-  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
-  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
-  <div class="section-block">
-    <div class="section-inner section-fit section-relative">
-        <div class="widget item-absolute paragraph  " id="element-75" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_938e8cfc x_c5f0bf77">Copyright © 2021. All rights reserved.</p>
-  </div>
-</div>
-
-    </div>
-  </div>
-</section>
-
-</main>
-
-
-
-
-
-
-<!-- custom FOOTER code-->
-
-
-<!-- end custom FOOTER code-->
-
-  <script   src="//g.fastcdn.co/js/utils.4307b753f6f392018c32.js"></script>
-  <script   src="//g.fastcdn.co/js/Cradle.5675cbeb1e8b20e4775c.js"></script>
-  <script   src="//g.fastcdn.co/js/LazyImage.b311ea858a228d7bc9b2.js"></script>
-  <script  async src="https://heatmap-events-collector.instapage.com/static/lib.js"></script>
-
-<!-- Generated at: 2021-02-02T14:52:27.042Z -->
-<!--
-
--->
 </body>
-
 </html>
